@@ -19,4 +19,8 @@ public class MainActivity extends AppCompatActivity
 		startActivity(intent);
 		
 	}
+	public void onclice(View view){
+		Intent intent =new Intent(MainActivity.this,estudiante.class);
+		startActivity(intent);
+	}
 }

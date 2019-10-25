@@ -8,9 +8,15 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
 		android:resizeableActivity="true">
+		<activity
+			android:name=".dialogcarga"
+			android:theme="@style/thme"/>
         <activity
             android:name=".MainActivity"
-			/>
+			android:theme="@style/AppTheme.NoActionBar"/>
+		<activity
+			android:name=".estudiante"
+			android:label="Estudiantes"/>
 		<activity
 			android:name=".iniciarprofesores"
 			android:supportsRtl="true"
