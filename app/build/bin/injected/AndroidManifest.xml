@@ -20,8 +20,13 @@
 			android:name=".MainActivity"/>
 
 		<activity
+			android:name=".iniciarprofesores"
+			android:supportsRtl="true"
+			android:theme="@style/AppTheme.NoActionBar"/>
+
+		<activity
 			android:name=".inicio"
-			android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+			android:theme="@style/thme">
 
 			<intent-filter>
 
