@@ -112,8 +112,7 @@ public class dialogcarga extends AppCompatActivity {
         }, new Response.ErrorListener() {
             @Override
             public void onErrorResponse(VolleyError error) {
-                Toast.makeText(getApplicationContext(), "errorConexion",Toast.LENGTH_LONG).show();
-
+                
             }
         });
         RequestQueue requestQueue;
