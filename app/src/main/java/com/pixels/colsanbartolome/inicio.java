@@ -16,7 +16,7 @@ public class inicio extends AppCompatActivity
 
 				@Override
 				public void run() {
-					Intent intent =new Intent(inicio.this,MainActivity.class);
+					Intent intent =new Intent(inicio.this,sede.class);
 					startActivity(intent);
 					finish();
 				}

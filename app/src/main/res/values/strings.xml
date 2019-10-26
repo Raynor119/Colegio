@@ -4,6 +4,8 @@
     <string name="login_password_hint">Contraseña</string>
     <string name="signup_login_hint">Already have an account? Sign In</string>
     <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
-	
-	<string name="app_name">COLEGIO SAN BARTOLOME</string>
+
+    <string name="app_name">COLEGIO SAN BARTOLOME</string>
+    <string name="title_activity_menuprofesores">Cursos</string>
+    <string name="action_settings">Settings</string>
 </resources>
