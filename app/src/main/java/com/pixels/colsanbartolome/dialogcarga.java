@@ -59,7 +59,7 @@ public class dialogcarga extends AppCompatActivity {
                 for (int i = 0; i < response.length(); i++) {
                     try {
                         jo = response.getJSONObject(i);
-                        promedioLista.add(new profes(jo.getString("usuario"), jo.getString("contrasena"), jo.getString("nombre"), jo.getString("jornada"), jo.getString("sede")));
+                        promedioLista.add(new profes(jo.getString("usuario"), jo.getString("contrasena"), jo.getString("nombre"), jo.getString("FÍSICA"), jo.getString("sede")));
 
                            } catch (JSONException e) {
                         Toast.makeText(getApplicationContext(), "puta", Toast.LENGTH_LONG).show();
@@ -89,7 +89,9 @@ public class dialogcarga extends AppCompatActivity {
 
 
 
-                        final String uss=promedioLista.get(p).getUsuario();
+                        final String uss=promedioLista.get(p).getJornada();
+						Toast.makeText(getApplicationContext(), ""+uss,Toast.LENGTH_LONG).show();
+						
                         Intent intent =new Intent(dialogcarga.this,menuprofesores.class);
                         startActivity(intent);
                         finish();
@@ -112,7 +114,14 @@ public class dialogcarga extends AppCompatActivity {
         }, new Response.ErrorListener() {
             @Override
             public void onErrorResponse(VolleyError error) {
-                
+                new android.os.Handler().postDelayed(new Runnable() {
+
+
+						@Override
+						public void run() {
+							Toast.makeText(getApplicationContext(), "Error de Conexion Verifique su conexion a Internet",Toast.LENGTH_LONG).show();
+							finish();
+						}},2000);
             }
         });
         RequestQueue requestQueue;

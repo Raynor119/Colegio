@@ -50,16 +50,16 @@
 					android:textSize="26dp"/>
 
 				<android.support.v7.widget.CardView
-					xmlns:android="http://schemas.android.com/apk/res/android"
 					xmlns:app="http://schemas.android.com/apk/res-auto"
 					style="@style/loginCard"
 					app:cardCornerRadius="@dimen/loginCardRadius"
 					android:elevation="5dp"
 					android:layout_gravity="center"
-					android:layout_marginTop="120dp"
-					android:layout_marginBottom="150dp"
+					android:layout_marginTop="50dp"
+					android:layout_marginBottom="50dp"
 					android:background="@color/whiteCardColor"
-					android:layout_width="600dp">
+					android:layout_width="650dp"
+					android:layout_height="450dp">
 
 					<LinearLayout
 						style="@style/linearParent"
@@ -116,6 +116,7 @@
 							android:id="@+id/cirLoginButton"
 							style="@style/loginButton"
 							android:text="Iniciar sesión"
+							android:onClick="onclic"
 							android:layout_gravity="center_horizontal"
 							android:layout_marginTop="40dp"
 							android:layout_marginBottom="20dp"/>
@@ -123,7 +124,7 @@
 					</LinearLayout>
 
 				</android.support.v7.widget.CardView>
-				
+
 			</LinearLayout>
 
 		</RelativeLayout>
