@@ -91,7 +91,11 @@ public class dialogcarga extends AppCompatActivity {
 
                         final String uss=promedioLista.get(p).getMaterias();
                         final String nn=promedioLista.get(p).getCursos();
+                        final String us=promedioLista.get(p).getUsuario();
+                        final String n=promedioLista.get(p).getNombre();
                         Intent intent =new Intent(dialogcarga.this,menuprofesores.class);
+                        intent.putExtra("Usuario",us);
+                        intent.putExtra("Nombre",n);
                         intent.putExtra("Materias",uss);
                         intent.putExtra("Cursos",nn);
                         startActivity(intent);
