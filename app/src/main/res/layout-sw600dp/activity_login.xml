@@ -114,12 +114,16 @@
 
 						<Button
 							android:id="@+id/cirLoginButton"
-							style="@style/loginButton"
-							android:text="Iniciar sesión"
-							android:onClick="onclic"
+							android:layout_width="182dp"
+							android:layout_height="54dp"
 							android:layout_gravity="center_horizontal"
 							android:layout_marginTop="40dp"
-							android:layout_marginBottom="20dp"/>
+							android:layout_marginBottom="20dp"
+							android:background="@drawable/inicio"
+							android:onClick="onclic"
+							android:text="Iniciar sesión"
+							android:textColor="@color/whiteTextColor"
+							android:textStyle="bold" />
 
 					</LinearLayout>
 

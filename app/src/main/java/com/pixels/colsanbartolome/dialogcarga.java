@@ -59,10 +59,10 @@ public class dialogcarga extends AppCompatActivity {
                 for (int i = 0; i < response.length(); i++) {
                     try {
                         jo = response.getJSONObject(i);
-                        promedioLista.add(new profes(jo.getString("usuario"), jo.getString("contrasena"), jo.getString("nombre"), jo.getString("FÍSICA"), jo.getString("sede")));
+                        promedioLista.add(new profes(jo.getString("usuario"), jo.getString("contrasena"), jo.getString("nombre"), jo.getString("materias"), jo.getString("cursos")));
 
                            } catch (JSONException e) {
-                        Toast.makeText(getApplicationContext(), "puta", Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(), "error de Bd", Toast.LENGTH_LONG).show();
 
                     }
                 }
@@ -89,10 +89,11 @@ public class dialogcarga extends AppCompatActivity {
 
 
 
-                        final String uss=promedioLista.get(p).getJornada();
-						Toast.makeText(getApplicationContext(), ""+uss,Toast.LENGTH_LONG).show();
-						
+                        final String uss=promedioLista.get(p).getMaterias();
+                        final String nn=promedioLista.get(p).getCursos();
                         Intent intent =new Intent(dialogcarga.this,menuprofesores.class);
+                        intent.putExtra("Materias",uss);
+                        intent.putExtra("Cursos",nn);
                         startActivity(intent);
                         finish();
 

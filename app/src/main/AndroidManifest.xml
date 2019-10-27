@@ -11,12 +11,15 @@
         android:resizeableActivity="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".menucursos"
+            android:label="Cursos"
+            android:theme="@style/scrollvir"></activity>
+        <activity
             android:name=".menuprofesores"
-            android:label="@string/title_activity_menuprofesores"
-            android:theme="@style/AppTheme.NoActionBar">
-
-        </activity>
-        <activity android:name=".sede" />
+            android:label="Materias"
+            android:theme="@style/scrollvir"></activity>
+        <activity android:name=".sede"
+            android:theme="@style/apptem"/>
         <activity
             android:name=".dialogcarga"
             android:theme="@style/thme" />
@@ -25,7 +28,8 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".estudiante"
-            android:label="Estudiantes" />
+            android:label="Estudiantes"
+            android:theme="@style/apptem"/>
         <activity
             android:name=".iniciarprofesores"
             android:supportsRtl="true"
