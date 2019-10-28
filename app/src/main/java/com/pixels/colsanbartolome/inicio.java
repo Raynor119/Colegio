@@ -3,6 +3,8 @@ package com.pixels.colsanbartolome;
 import android.support.v7.app.*;
 import android.os.*;
 import android.content.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class inicio extends AppCompatActivity
 {
@@ -43,7 +45,7 @@ public class inicio extends AppCompatActivity
 
 						basedeinicio n=new basedeinicio(getApplicationContext());
 
-						n.agregarE("1","nada","nada","nada","nada");
+						n.agregarE("1","nada","nada","nada","nada","nada");
 
 
 
@@ -73,11 +75,11 @@ public class inicio extends AppCompatActivity
 
 						String usu=usurr.get(0).getUsuario();
 
-						System.out.println("usuario: "+usu);
+					
 
 						if(usu.equals("nada")){
 
-							intent = new Intent(BolsadeEmpleo.this, MainActivity.class);
+							intent = new Intent(inicio.this, sede.class);
 
 
 
@@ -89,14 +91,12 @@ public class inicio extends AppCompatActivity
 
 						}else{
 
-							intent = new Intent(BolsadeEmpleo.this, cargar.class);
+							intent = new Intent(inicio.this, menuprofesores.class);
 
 							intent.putExtra("Usuario",usurr.get(0).getUsuario());
-
-							intent.putExtra("Contraseña",usurr.get(0).getContraseña());
-
-							intent.putExtra("deci","1");
-
+							intent.putExtra("Nombre",usurr.get(0).getNombre());
+							intent.putExtra("Materias",usurr.get(0).getMaterias());
+							intent.putExtra("Cursos",usurr.get(0).getCursos());
 
 
 							startActivity(intent);

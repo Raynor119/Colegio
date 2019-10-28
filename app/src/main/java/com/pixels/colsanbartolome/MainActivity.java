@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity
 {
 	TextView sedee;
 	String sede;
+	boolean n=true;
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -26,16 +27,24 @@ public class MainActivity extends AppCompatActivity
 		}
     }
 	public void onclic(View View){
-		Intent intent =new Intent(MainActivity.this,iniciarprofesores.class);
-		intent.putExtra("sede",sede);
-
-
-		startActivity(intent);
+		if(n=true)
+		{
+			n=false;
+			Intent intent =new Intent(MainActivity.this,iniciarprofesores.class);
+			intent.putExtra("sede",sede);
+			startActivity(intent);
+			finish();
+		}
+		
 		
 	}
 	public void onclice(View view){
+		if(n=true)
+		{
+			n=false;
 		Intent intent =new Intent(MainActivity.this,estudiante.class);
 		intent.putExtra("sede",sede);
 		startActivity(intent);
+		}
 	}
 }

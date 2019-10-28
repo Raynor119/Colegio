@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="21"
-        android:targetSdkVersion="25" />
+        android:targetSdkVersion="26" />
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -17,11 +17,20 @@
         android:resizeableActivity="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="com.pixels.colsanbartolome.Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.pixels.colsanbartolome.menucursos"
+            android:label="Cursos"
+            android:theme="@style/scrollvir" />
+        <activity
             android:name="com.pixels.colsanbartolome.menuprofesores"
-            android:label="@string/title_activity_menuprofesores"
-            android:theme="@style/AppTheme.NoActionBar" >
-        </activity>
-        <activity android:name="com.pixels.colsanbartolome.sede" />
+            android:label="Materias"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name="com.pixels.colsanbartolome.sede"
+            android:theme="@style/apptem" />
         <activity
             android:name="com.pixels.colsanbartolome.dialogcarga"
             android:theme="@style/thme" />
@@ -30,7 +39,8 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.pixels.colsanbartolome.estudiante"
-            android:label="Estudiantes" />
+            android:label="Estudiantes"
+            android:theme="@style/apptem" />
         <activity
             android:name="com.pixels.colsanbartolome.iniciarprofesores"
             android:supportsRtl="true"
@@ -44,6 +54,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0" />
     </application>
 
 </manifest>

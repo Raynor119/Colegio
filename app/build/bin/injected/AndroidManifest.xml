@@ -7,7 +7,7 @@
 
 	<uses-sdk
 		android:minSdkVersion="21"
-		android:targetSdkVersion="25"/>
+		android:targetSdkVersion="26"/>
 
 	<uses-permission
 		android:name="android.permission.INTERNET"/>
@@ -20,14 +20,23 @@
 		android:theme="@style/AppTheme">
 
 		<activity
-			android:name=".menuprofesores"
-			android:label="@string/title_activity_menuprofesores"
-			android:theme="@style/AppTheme.NoActionBar">
-
-		</activity>
+			android:name=".Main2Activity"
+			android:label="@string/title_activity_main2"
+			android:theme="@style/AppTheme.NoActionBar"/>
 
 		<activity
-			android:name=".sede"/>
+			android:name=".menucursos"
+			android:label="Cursos"
+			android:theme="@style/scrollvir"/>
+
+		<activity
+			android:name=".menuprofesores"
+			android:label="Materias"
+			android:theme="@style/scrollvir"/>
+
+		<activity
+			android:name=".sede"
+			android:theme="@style/apptem"/>
 
 		<activity
 			android:name=".dialogcarga"
@@ -39,7 +48,8 @@
 
 		<activity
 			android:name=".estudiante"
-			android:label="Estudiantes"/>
+			android:label="Estudiantes"
+			android:theme="@style/apptem"/>
 
 		<activity
 			android:name=".iniciarprofesores"

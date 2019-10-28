@@ -87,13 +87,17 @@ public class dialogcarga extends AppCompatActivity {
                     String conr=promedioLista.get(p).getContraseña();
                     if(conr.equals(cont)){
 
-
+						
 
                         final String uss=promedioLista.get(p).getMaterias();
                         final String nn=promedioLista.get(p).getCursos();
                         final String us=promedioLista.get(p).getUsuario();
                         final String n=promedioLista.get(p).getNombre();
+						final String contt=promedioLista.get(p).getContraseña();
+						basedeinicio nb=new basedeinicio(getApplicationContext());
+						nb.inic("1",us,contt,n,uss,nn);
                         Intent intent =new Intent(dialogcarga.this,menuprofesores.class);
+						
                         intent.putExtra("Usuario",us);
                         intent.putExtra("Nombre",n);
                         intent.putExtra("Materias",uss);
@@ -125,6 +129,8 @@ public class dialogcarga extends AppCompatActivity {
 						@Override
 						public void run() {
 							Toast.makeText(getApplicationContext(), "Error de Conexion Verifique su conexion a Internet",Toast.LENGTH_LONG).show();
+							Intent intent=new Intent(dialogcarga.this,iniciarprofesores.class);
+							startActivity(intent);
 							finish();
 						}},2000);
             }

@@ -19,12 +19,13 @@ TextView sedee;
         Intent intent =new Intent(sede.this,MainActivity.class);
         intent.putExtra("sede",sede);
         startActivity(intent);
+		finish();
     }
     public void onclicm(View view){
         String sede="1";
         Intent intent =new Intent(sede.this,MainActivity.class);
         intent.putExtra("sede",sede);
         startActivity(intent);
-
+finish();
     }
 }

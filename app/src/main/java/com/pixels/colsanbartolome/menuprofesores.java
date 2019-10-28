@@ -153,7 +153,17 @@ public class menuprofesores extends AppCompatActivity
         if (id == R.id.nav_tools) {
 
         } else if (id == R.id.nav_share) {
+			basedeinicio n = new basedeinicio(getApplicationContext());
+			n.inic("1", "nada","", "", "","");
 
+
+			Intent intent = new Intent(menuprofesores.this, sede.class);
+
+
+			startActivity(intent);
+
+
+			finish();
         }
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);

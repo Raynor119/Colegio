@@ -8,6 +8,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 public class iniciarprofesores extends AppCompatActivity
 {
+	static View vie;
 	EditText usuario,contra;
 	String sede;
 	@Override
@@ -16,8 +17,9 @@ public class iniciarprofesores extends AppCompatActivity
         setContentView(R.layout.activity_login);
 		usuario=(EditText)findViewById(R.id.editTextEmail);
 		contra=(EditText)findViewById(R.id.editTextPassword);
-		Bundle extra = getIntent().getExtras();
-		sede=extra.getString("sede");
+		
+		
+		
     }
 
 
@@ -33,6 +35,8 @@ public class iniciarprofesores extends AppCompatActivity
 			intent.putExtra("Contraseña",contra.getText().toString());
 			intent.putExtra("deci",sede);
 			startActivity(intent);
+			finish();
+			
 		}
 		
 		

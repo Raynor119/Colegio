@@ -61,7 +61,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
 
 
-    public void agregarE(String id,String usuario,String contraseña,String nombre,String tipo){
+    public void agregarE(String id,String usuario,String contraseña,String nombre,String materias,String cursos){
 
         SQLiteDatabase bd=getWritableDatabase();
 
@@ -69,7 +69,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
         {
 
-            bd.execSQL("INSERT INTO INICIO VALUES('"+id+"','"+usuario+"','"+contraseña+"','"+nombre+"','"+tipo+"')");
+            bd.execSQL("INSERT INTO INICIO VALUES('"+id+"','"+usuario+"','"+contraseña+"','"+nombre+"','"+materias+"','"+cursos+"')");
 
             bd.close();
 
@@ -93,13 +93,15 @@ public class basedeinicio extends SQLiteOpenHelper {
 
             do{
 
-                datos.setContraseña(cursor.getString(1));
+                datos.setUsuario(cursor.getString(1));
 
-                datos.setNombre(cursor.getString(2));
+                datos.setContraseña(cursor.getString(2));
 
                 datos.setNombre(cursor.getString(3));
-
-
+				
+				datos.setMaterias(cursor.getString(4));
+				
+				datos.setCursos(cursor.getString(5));
 
 
 
@@ -129,7 +131,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
             do{
 
-                usurr.add(new usa(cursor.getString(0),cursor.getString(1),cursor.getString(2),cursor.getString(3),cursor.getString(4)));
+                usurr.add(new usa(cursor.getString(0),cursor.getString(1),cursor.getString(2),cursor.getString(3),cursor.getString(4),cursor.getString(5)));
 
 
 
@@ -145,7 +147,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
     }
 
-    public void inic(String id ,String usuario,String contraseña,String nombre,String tipo){
+    public void inic(String id ,String usuario,String contraseña,String nombre,String materias,String cursos){
 
 
 
@@ -161,7 +163,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
 
 
-            bd.execSQL("UPDATE INICIO SET USUARIO='"+usuario+"',CONTRASEÑA='"+contraseña+"',NOMBRE='"+nombre+"',TIPO='"+tipo+"' WHERE ID='"+id+"'");
+            bd.execSQL("UPDATE INICIO SET USUARIO='"+usuario+"',CONTRASEÑA='"+contraseña+"',NOMBRE='"+nombre+"',MATERIAS='"+materias+"',CURSOS='"+cursos+"' WHERE ID='"+id+"'");
 
 
 
