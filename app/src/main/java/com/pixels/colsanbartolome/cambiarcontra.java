@@ -63,7 +63,7 @@ String Usuario,Nombre,Materias,Cursos;
                 n.inic("1", "nada","", "", "","");
                 Intent intent=new Intent(cambiarcontra.this,sede.class);
                 startActivity(intent);
-                Toast.makeText(getApplicationContext(), "Mensaje Agregado Correctamente", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "se a Cambiado la Contraseña ", Toast.LENGTH_SHORT).show();
                 finish();
 
 
