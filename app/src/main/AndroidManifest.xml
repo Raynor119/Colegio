@@ -10,10 +10,15 @@
         android:label="@string/app_name"
         android:resizeableActivity="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".agregar"
-            android:label="Agregar Mensajes"></activity>
-        <activity android:name=".editar"
-            android:label="Editor de Mensajes"/>
+        <activity android:name=".cambiarcontra"
+            android:label="Cambiar Contraseña">
+        </activity>
+        <activity
+            android:name=".agregar"
+            android:label="Agregar Mensajes" />
+        <activity
+            android:name=".editar"
+            android:label="Editor de Mensajes" />
         <activity android:name=".mensajesprof" />
         <activity android:name=".mensajeses" />
         <activity

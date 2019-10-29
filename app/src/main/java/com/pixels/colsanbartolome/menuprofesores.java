@@ -1,11 +1,13 @@
 package com.pixels.colsanbartolome;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -24,7 +26,7 @@ public class menuprofesores extends AppCompatActivity
     public List<materias> materias=new ArrayList<>();
     private RecyclerView reciclemateria;
     TextView Usuario,Nombre;
-
+   AlertDialog.Builder alert;
     private MostrarMateryReci adaptadormateria,obid;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,7 +39,7 @@ public class menuprofesores extends AppCompatActivity
         Nombre1=extra.getString("Nombre");
         Materias=extra.getString("Materias");
         Cursos=extra.getString("Cursos");
-
+        alert= new AlertDialog.Builder(menuprofesores.this);
         reciclemateria=(RecyclerView)findViewById(R.id.recyclerMateria);
         reciclemateria.setLayoutManager(new LinearLayoutManager(this));
 
@@ -152,6 +154,33 @@ public class menuprofesores extends AppCompatActivity
 
         if (id == R.id.nav_tools) {
 
+            alert.setMessage("Presione Si para Cambiar la Conraseña para Cancelar presione No")
+                    .setCancelable(false)
+                    .setPositiveButton("Si", new DialogInterface.OnClickListener(){
+                        @Override
+                        public void onClick(DialogInterface dialog,int which){
+                            Intent intent=new Intent(menuprofesores.this,cambiarcontra.class);
+                            intent.putExtra("usuario",Usuario1);
+                            intent.putExtra("nombre",Nombre1);
+                            intent.putExtra("materias",Materias);
+                            intent.putExtra("cursos",Cursos);
+                            startActivity(intent);
+                            finish();
+
+                        }
+
+                    })
+                    .setNegativeButton("No", new DialogInterface.OnClickListener(){
+                        @Override
+
+                        public void onClick(DialogInterface dialog,int which){
+                            dialog.cancel();
+                        }
+
+                    });
+            AlertDialog titulo=alert.create();
+            titulo.setTitle("Alerta");
+            titulo.show();
         } else if (id == R.id.nav_share) {
 			basedeinicio n = new basedeinicio(getApplicationContext());
 			n.inic("1", "nada","", "", "","");

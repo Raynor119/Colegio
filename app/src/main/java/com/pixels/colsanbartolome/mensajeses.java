@@ -130,7 +130,7 @@ if(promedioLista.size()==0) {
 
                 @Override
                 public void run() {
-                    Toast.makeText(getApplicationContext(), "Error de Conexion Verifique su conexion a Internet  " + tabla, Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), "Error de Conexion Verifique su conexion a Internet", Toast.LENGTH_LONG).show();
                 }
             }, 2000);
         }

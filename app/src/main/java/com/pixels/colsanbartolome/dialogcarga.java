@@ -106,13 +106,17 @@ public class dialogcarga extends AppCompatActivity {
                     }
                     else{
                         Toast.makeText(getApplicationContext(), "Contraseña incorrecta",Toast.LENGTH_LONG).show();
-
+                        Intent intent=new Intent(dialogcarga.this,iniciarprofesores.class);
+                        startActivity(intent);
                         finish();
+
                     }
                 }else{
                     Toast.makeText(getApplicationContext(), "usurio no encontrdo",Toast.LENGTH_LONG).show();
-
+                    Intent intent=new Intent(dialogcarga.this,iniciarprofesores.class);
+                    startActivity(intent);
                     finish();
+
                 }
 
 
