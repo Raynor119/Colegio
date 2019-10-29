@@ -40,6 +40,7 @@
 					android:layout_marginLeft="33dp"
 					android:layout_marginTop="97dp"
 					card_view:cardCornerRadius="12dp"
+					android:onClick="manaña"
 					card_view:cardBackgroundColor="@android:color/transparent">
 
 					<LinearLayout

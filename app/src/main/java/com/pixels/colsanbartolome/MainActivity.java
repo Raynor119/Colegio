@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity
 			sedee.setText("SEDE COMUNEROS");
 		}
     }
+
+
 	public void onclic(View View){
 		if(n=true)
 		{
@@ -35,16 +37,24 @@ public class MainActivity extends AppCompatActivity
 			startActivity(intent);
 			finish();
 		}
-		
+
 		
 	}
 	public void onclice(View view){
 		if(n=true)
 		{
 			n=false;
-		Intent intent =new Intent(MainActivity.this,estudiante.class);
-		intent.putExtra("sede",sede);
-		startActivity(intent);
+			if(sede.equals("0")) {
+				Intent intent =new Intent(MainActivity.this,estudiante.class);
+
+				startActivity(intent);
+			}
+			if(sede.equals("1")){
+				Intent intent =new Intent(MainActivity.this,estudaintesc.class);
+
+				startActivity(intent);
+			}
+
 		}
 	}
 }

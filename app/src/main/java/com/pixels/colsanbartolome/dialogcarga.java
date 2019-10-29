@@ -49,8 +49,6 @@ public class dialogcarga extends AppCompatActivity {
 
         final String ipt=c.ip();
         String Url="https://colegiobartolome.000webhostapp.com/usulist.php";
-
-        // sacar
         JsonArrayRequest jsonArrayRequest=new JsonArrayRequest(Url, new Response.Listener<JSONArray>() {
 
             @Override

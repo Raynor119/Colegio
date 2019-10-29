@@ -10,10 +10,29 @@
         android:label="@string/app_name"
         android:resizeableActivity="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".agregar"
+            android:label="Agregar Mensajes"></activity>
+        <activity android:name=".editar"
+            android:label="Editor de Mensajes"/>
+        <activity android:name=".mensajesprof" />
+        <activity android:name=".mensajeses" />
+        <activity
+            android:name=".materiase"
+            android:label="Materias"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name=".cursosesn"
+            android:label="Cursos"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name=".cursoses"
+            android:label="Cursos"
+            android:theme="@style/scrollvir" />
+        <activity android:name=".estudaintesc" />
         <activity
             android:name=".Main2Activity"
             android:label="@string/title_activity_main2"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".menucursos"
             android:label="Cursos"
