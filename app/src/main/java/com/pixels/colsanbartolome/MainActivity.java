@@ -50,8 +50,9 @@ public class MainActivity extends AppCompatActivity
 				startActivity(intent);
 			}
 			if(sede.equals("1")){
-				Intent intent =new Intent(MainActivity.this,estudaintesc.class);
-
+				Intent intent =new Intent(MainActivity.this,cursoses.class);
+				intent.putExtra("sede","1");
+				intent.putExtra("jornada","tarde");
 				startActivity(intent);
 			}
 

@@ -41,10 +41,10 @@ public class cursoses extends AppCompatActivity {
             if(jornada.equals("manana")){
                 manana();
             }else {
-
+                tarde();
             }
         }else{
-
+                tardec();
         }
         reciclemateria=(RecyclerView)findViewById(R.id.recyclerMateria1);
         reciclemateria.setLayoutManager(new LinearLayoutManager(this));
@@ -84,6 +84,136 @@ public class cursoses extends AppCompatActivity {
                         mater=promedioLista.get(reciclemateria.getChildAdapterPosition(view)).getMaterias();
                         Intent intent=new Intent(cursoses.this,cursosesn.class);
                         intent.putExtra("cursos",Cursos);
+                        intent.putExtra("mater",mater);
+                        startActivity(intent);
+
+
+
+
+                    }
+
+                });
+
+                reciclemateria.setAdapter(adaptadormateria);
+
+
+
+            }
+        }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                new android.os.Handler().postDelayed(new Runnable() {
+
+
+                    @Override
+                    public void run() {
+                        Toast.makeText(getApplicationContext(), "Error de Conexion Verifique su conexion a Internet",Toast.LENGTH_LONG).show();
+                        finish();
+                    }},2000);
+            }
+        });
+        RequestQueue requestQueue;
+        requestQueue= Volley.newRequestQueue(this);
+        requestQueue.add(jsonArrayRequest);
+
+    }
+    public void tarde(){
+        String Url="https://colegiobartolome.000webhostapp.com/cursost.php";
+        JsonArrayRequest jsonArrayRequest=new JsonArrayRequest(Url, new Response.Listener<JSONArray>() {
+
+            @Override
+            public void onResponse(JSONArray response) {
+                JSONObject jo = null;
+                for (int i = 0; i < response.length(); i++) {
+                    try {
+                        jo = response.getJSONObject(i);
+                        promedioLista.add(new cursolist(jo.getString("grado"), jo.getString("grados"), jo.getString("materias")));
+
+                    } catch (JSONException e) {
+                        Toast.makeText(getApplicationContext(), "error de Bd", Toast.LENGTH_LONG).show();
+
+                    }
+                }
+
+                for(int i=0;i<promedioLista.size();i++){
+                    cursos1.add(new cursos(promedioLista.get(i).getCuso()));
+                }
+                adaptadormateria =new MostrarMateryReci1(cursos1);
+                adaptadormateria.setOnClickListener(new View.OnClickListener(){
+                    @Override
+
+                    public void onClick(View view){
+
+                        String Cursos,mater;
+                        Cursos=promedioLista.get(reciclemateria.getChildAdapterPosition(view)).getCusos();
+                        mater=promedioLista.get(reciclemateria.getChildAdapterPosition(view)).getMaterias();
+                        Intent intent=new Intent(cursoses.this,cursosesn.class);
+                        intent.putExtra("cursos",Cursos);
+                        intent.putExtra("mater",mater);
+                        startActivity(intent);
+
+
+
+
+                    }
+
+                });
+
+                reciclemateria.setAdapter(adaptadormateria);
+
+
+
+            }
+        }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                new android.os.Handler().postDelayed(new Runnable() {
+
+
+                    @Override
+                    public void run() {
+                        Toast.makeText(getApplicationContext(), "Error de Conexion Verifique su conexion a Internet",Toast.LENGTH_LONG).show();
+                        finish();
+                    }},2000);
+            }
+        });
+        RequestQueue requestQueue;
+        requestQueue= Volley.newRequestQueue(this);
+        requestQueue.add(jsonArrayRequest);
+
+    }
+    public void tardec(){
+        String Url="https://colegiobartolome.000webhostapp.com/cursostc.php";
+        JsonArrayRequest jsonArrayRequest=new JsonArrayRequest(Url, new Response.Listener<JSONArray>() {
+
+            @Override
+            public void onResponse(JSONArray response) {
+                JSONObject jo = null;
+                for (int i = 0; i < response.length(); i++) {
+                    try {
+                        jo = response.getJSONObject(i);
+                        promedioLista.add(new cursolist(jo.getString("grado"), jo.getString("grados"), jo.getString("materias")));
+
+                    } catch (JSONException e) {
+                        Toast.makeText(getApplicationContext(), "error de Bd", Toast.LENGTH_LONG).show();
+
+                    }
+                }
+
+                for(int i=0;i<promedioLista.size();i++){
+                    cursos1.add(new cursos(promedioLista.get(i).getCuso()));
+                }
+                adaptadormateria =new MostrarMateryReci1(cursos1);
+                adaptadormateria.setOnClickListener(new View.OnClickListener(){
+                    @Override
+
+                    public void onClick(View view){
+
+                        String Cursos,mater;
+                        Cursos=promedioLista.get(reciclemateria.getChildAdapterPosition(view)).getCuso();
+                        mater=promedioLista.get(reciclemateria.getChildAdapterPosition(view)).getMaterias();
+                        Intent intent=new Intent(cursoses.this,materiase.class);
+                        intent.putExtra("curso",Cursos);
                         intent.putExtra("mater",mater);
                         startActivity(intent);
 

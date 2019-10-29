@@ -54,7 +54,7 @@ public class materiase extends AppCompatActivity {
                 for(int i=0;i<curso.length();i++){
                     char l=curso.charAt(i);
                     String ll=""+l;
-                    if(ll.equals("-")){
+                    if(ll.equals("-")||ll.equals(" ")){
                     }else{
                         cur=cur+ll;
                     }
@@ -72,6 +72,7 @@ public class materiase extends AppCompatActivity {
                 Intent intent=new Intent(materiase.this,mensajeses.class);
                 intent.putExtra("tabla",cur+mat);
                 startActivity(intent);
+            //    Toast.makeText(getApplicationContext(), cur+mat,Toast.LENGTH_LONG).show();
 
 
             }

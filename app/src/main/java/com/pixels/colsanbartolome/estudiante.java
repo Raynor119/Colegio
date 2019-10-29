@@ -39,6 +39,10 @@ public class estudiante extends AppCompatActivity
 
 
     public void tarde(View v){
+        Intent intent=new Intent(estudiante.this,cursoses.class);
+        intent.putExtra("sede","0");
+        intent.putExtra("jornada","tarde");
+        startActivity(intent);
 
     }
 }
