@@ -60,7 +60,7 @@ String Usuario,Nombre,Materias,Cursos;
 
             public void onResponse(String response) {
                 basedeinicio n = new basedeinicio(getApplicationContext());
-                n.inic("1", "nada","", "", "","");
+                n.inic("1", "nada","", "", "","","");
                 Intent intent=new Intent(cambiarcontra.this,sede.class);
                 startActivity(intent);
                 Toast.makeText(getApplicationContext(), "se a Cambiado la Contraseña ", Toast.LENGTH_SHORT).show();

@@ -2,18 +2,19 @@ package com.pixels.colsanbartolome;
 
 public class profes
 {
-	private String Usuario,Contraseña,Nombre,Materias,Cursos;
+	private String Usuario,Contraseña,Nombre,Materias,Cursos,Tipo;
 	
 	public profes(){
 		
 	}
-	public profes(String usuario,String contraseña,String nombre,String materias,String cursos){
+	public profes(String usuario,String contraseña,String nombre,String materias,String cursos,String tipo){
 
 		this.Usuario=usuario;
 		this.Contraseña=contraseña;
 		this.Nombre=nombre;
 		this.Materias=materias;
 		this.Cursos=cursos;
+		this.Tipo=tipo;
 	}
 	public String getUsuario(){
 
@@ -71,6 +72,17 @@ public class profes
 	public void setCursos(String cursos){
 
 		Cursos=cursos;
+
+	}
+	public String getTipo(){
+
+		return Tipo;
+
+	}
+
+	public void setTipo(String tipo){
+
+		Tipo=tipo;
 
 	}
 	

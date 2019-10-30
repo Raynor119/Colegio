@@ -35,7 +35,7 @@ import java.util.Locale;
 import java.util.Map;
 
 public class mensajesprof extends AppCompatActivity {
-    public static String tabla;
+    public static String tabla,materia,curso,nombre;
     static boolean n=true;
     public static List<mensajes> promedioLista =new ArrayList<>();
     private static RecyclerView reciclemateria;
@@ -48,6 +48,9 @@ public class mensajesprof extends AppCompatActivity {
         Bundle extra = getIntent().getExtras();
         setContentView(R.layout.activity_mensajesprof);
         tabla=extra.getString("tabla");
+        materia=extra.getString("materia");
+        curso=extra.getString("curso");
+        nombre=extra.getString("nombre");
         getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
 context=this;
         getSupportActionBar().setCustomView(R.layout.toolbar);
@@ -83,6 +86,9 @@ context=this;
                                             n = false;
                                             Intent intent = new Intent(mensajesprof.this, agregar.class);
                                             intent.putExtra("tabla", tabla);
+                                            intent.putExtra("materia",materia);
+                                            intent.putExtra("curso",curso);
+                                            intent.putExtra("nombre",nombre);
                                             startActivity(intent);
                                         }
 

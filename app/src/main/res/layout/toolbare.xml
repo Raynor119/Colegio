@@ -19,7 +19,7 @@
 
         android:layout_height="wrap_content"
 
-        android:text="Eventos"
+        android:text="Mensajes Administrativos"
 
         android:layout_alignBaseline="@+id/peri"
 

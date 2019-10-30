@@ -54,7 +54,7 @@ public class mostrarevento extends AppCompatActivity {
                 if(n)
                 {
                     n=false;
-                    mostrarmensajes("","1");
+                    mostrarmensajes(" ","1");
                     mostrarmensajes( "1","1");
                 }
 

@@ -94,6 +94,7 @@ public class menuprofesores extends AppCompatActivity
                 Intent intent=new Intent(menuprofesores.this,menucursos.class);
                 intent.putExtra("Materias",mater1);
                 intent.putExtra("Cursos",curs1);
+                intent.putExtra("nombre",Nombre1);
                 startActivity(intent);
             }
 
@@ -183,7 +184,7 @@ public class menuprofesores extends AppCompatActivity
             titulo.show();
         } else if (id == R.id.nav_share) {
 			basedeinicio n = new basedeinicio(getApplicationContext());
-			n.inic("1", "nada","", "", "","");
+			n.inic("1", "nada","", "", "","","");
 
 
 			Intent intent = new Intent(menuprofesores.this, sede.class);

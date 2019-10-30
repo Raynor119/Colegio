@@ -19,7 +19,7 @@ public class MostrarMateryReci3  extends RecyclerView.Adapter<MostrarMateryReci3
 
     public static class ViewHolder extends RecyclerView.ViewHolder{
 
-        private TextView Materia,Promedio,quien;
+        private TextView Materia,Promedio,quien,even;
 
         Context context;
 
@@ -30,7 +30,7 @@ public class MostrarMateryReci3  extends RecyclerView.Adapter<MostrarMateryReci3
             super(itemView);
 
 
-
+            even=(TextView)itemView.findViewById(R.id.dd);
             Materia=(TextView)itemView.findViewById(R.id.MAterit);
             Promedio=(TextView)itemView.findViewById(R.id.textView);
             quien=(TextView)itemView.findViewById(R.id.textViewp);
@@ -90,7 +90,7 @@ public class MostrarMateryReci3  extends RecyclerView.Adapter<MostrarMateryReci3
 
 
 
-
+holder.even.setText("EVENTO");
         holder.Materia.setText(promedioLista.get(position).getMensaje());
         String fecha="";
         int t=0;

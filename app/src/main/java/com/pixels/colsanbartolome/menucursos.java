@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class menucursos extends AppCompatActivity {
-    String Materias,Cursos;
+    String Materias,Cursos,nombre;
     public List<cursos> cursos1=new ArrayList<>();
     private RecyclerView reciclemateria;
 
@@ -27,6 +27,7 @@ public class menucursos extends AppCompatActivity {
         Bundle extra = getIntent().getExtras();
         Materias=extra.getString("Materias");
         Cursos=extra.getString("Cursos");
+        nombre=extra.getString("nombre");
         int i;
         String cur="";
         for(int b=0;b<Cursos.length();b++){
@@ -67,7 +68,7 @@ public class menucursos extends AppCompatActivity {
                 for(int i=0;i<Materias.length();i++){
                     char l=Materias.charAt(i);
                     String ll=""+l;
-                    if(ll.equals(" ")){
+                    if(ll.equals(" ")||ll.equals(",")||ll.equals(".")){
                     }else{
                         mat=mat+ll;
                     }
@@ -75,6 +76,9 @@ public class menucursos extends AppCompatActivity {
                 tbd=cur+mat;
                 Intent intent=new Intent(menucursos.this,mensajesprof.class);
                 intent.putExtra("tabla",cur+mat);
+                intent.putExtra("materia",Materias);
+                intent.putExtra("curso",curs1);
+                intent.putExtra("nombre",nombre);
                 startActivity(intent);
 
             }

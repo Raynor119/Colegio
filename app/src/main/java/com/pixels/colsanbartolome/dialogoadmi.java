@@ -89,7 +89,7 @@ public class dialogoadmi extends AppCompatActivity {
                         final String cede=promedioLista.get(p).getSede();
 
                         basedeinicio nb=new basedeinicio(getApplicationContext());
-                        nb.inic("1",usuario,conta,tipo,cede,"");
+                        nb.inic("1",usuario,conta,tipo,cede,"","");
                         Intent intent =new Intent(dialogoadmi.this,menuadmi.class);
 
                         intent.putExtra("Usuario",usuario);

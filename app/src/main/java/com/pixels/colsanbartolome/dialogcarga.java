@@ -57,7 +57,7 @@ public class dialogcarga extends AppCompatActivity {
                 for (int i = 0; i < response.length(); i++) {
                     try {
                         jo = response.getJSONObject(i);
-                        promedioLista.add(new profes(jo.getString("usuario"), jo.getString("contrasena"), jo.getString("nombre"), jo.getString("materias"), jo.getString("cursos")));
+                        promedioLista.add(new profes(jo.getString("usuario"), jo.getString("contrasena"), jo.getString("nombre"), jo.getString("materias"), jo.getString("cursos"), jo.getString("tipo")));
 
                            } catch (JSONException e) {
                         Toast.makeText(getApplicationContext(), "error de Bd", Toast.LENGTH_LONG).show();
@@ -93,7 +93,7 @@ public class dialogcarga extends AppCompatActivity {
                         final String n=promedioLista.get(p).getNombre();
 						final String contt=promedioLista.get(p).getContraseña();
 						basedeinicio nb=new basedeinicio(getApplicationContext());
-						nb.inic("1",us,contt,n,uss,nn);
+						nb.inic("1",us,contt,n,uss,nn,promedioLista.get(p).getTipo());
                         Intent intent =new Intent(dialogcarga.this,menuprofesores.class);
 						
                         intent.putExtra("Usuario",us);

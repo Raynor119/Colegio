@@ -102,7 +102,7 @@ public class menuadmi extends AppCompatActivity
 
           if (id == R.id.nav_share) {
                 basedeinicio n = new basedeinicio(getApplicationContext());
-                n.inic("1", "nada","", "", "","");
+                n.inic("1", "nada","", "", "","","");
 
 
                 Intent intent = new Intent(menuadmi.this, sede.class);

@@ -33,7 +33,7 @@ public class inicio extends AppCompatActivity
 
 	private final static String CHANNEL_ID = "NOTIFICACION";
 
-	private final static int NOTIFICACION_ID = 0;
+	private static int NOTIFICACION_ID = 0;
 	@Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -72,7 +72,7 @@ public class inicio extends AppCompatActivity
 
 						basedeinicio n=new basedeinicio(getApplicationContext());
 						basedenoti nn=new basedenoti(getApplicationContext());
-						n.agregarE("1","nada","nada","nada","nada","nada");
+						n.agregarE("1","nada","nada","nada","nada","nada","nada");
 						nn.agregarE("0");
 
 
@@ -148,7 +148,7 @@ public class inicio extends AppCompatActivity
 											if(t==0){
 												if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
 
-													CharSequence name = "Noticacion";
+													CharSequence name = promedioLista.get(i).getId();
 
 													NotificationChannel notificationChannel = new NotificationChannel(CHANNEL_ID, name, NotificationManager.IMPORTANCE_HIGH);
 
@@ -193,6 +193,7 @@ public class inicio extends AppCompatActivity
 												notificationManagerCompat.notify(NOTIFICACION_ID, builder.build());
 												//Toast.makeText(getApplicationContext(), ""+b+"  "+finalNotiguardadas.get(0).getId(), Toast.LENGTH_LONG).show();
 												nnn.agregarE(promedioLista.get(i).getId());
+												NOTIFICACION_ID+=NOTIFICACION_ID+1;
 											}else {
 
 											}

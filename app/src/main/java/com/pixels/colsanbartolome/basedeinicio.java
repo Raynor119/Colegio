@@ -21,7 +21,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
     private static final int VERSION_BD=1;
 
-    private static final String TABLA_INICIO="CREATE TABLE INICIO(ID TEXT PRIMARY KEY,USUARIO TEXT, CONTRASEÑA TEXT, NOMBRE TEXT,MATERIAS TEXT,CURSOS TEXT)";
+    private static final String TABLA_INICIO="CREATE TABLE INICIO(ID TEXT PRIMARY KEY,USUARIO TEXT, CONTRASEÑA TEXT, NOMBRE TEXT,MATERIAS TEXT,CURSOS TEXT,TIPO TEXT)";
 
 
 
@@ -61,7 +61,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
 
 
-    public void agregarE(String id,String usuario,String contraseña,String nombre,String materias,String cursos){
+    public void agregarE(String id,String usuario,String contraseña,String nombre,String materias,String cursos,String tipo){
 
         SQLiteDatabase bd=getWritableDatabase();
 
@@ -69,7 +69,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
         {
 
-            bd.execSQL("INSERT INTO INICIO VALUES('"+id+"','"+usuario+"','"+contraseña+"','"+nombre+"','"+materias+"','"+cursos+"')");
+            bd.execSQL("INSERT INTO INICIO VALUES('"+id+"','"+usuario+"','"+contraseña+"','"+nombre+"','"+materias+"','"+cursos+"','"+tipo+"')");
 
             bd.close();
 
@@ -102,6 +102,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 				datos.setMaterias(cursor.getString(4));
 				
 				datos.setCursos(cursor.getString(5));
+                datos.setCursos(cursor.getString(6));
 
 
 
@@ -131,7 +132,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
             do{
 
-                usurr.add(new usa(cursor.getString(0),cursor.getString(1),cursor.getString(2),cursor.getString(3),cursor.getString(4),cursor.getString(5)));
+                usurr.add(new usa(cursor.getString(0),cursor.getString(1),cursor.getString(2),cursor.getString(3),cursor.getString(4),cursor.getString(5),cursor.getString(6)));
 
 
 
@@ -147,7 +148,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
     }
 
-    public void inic(String id ,String usuario,String contraseña,String nombre,String materias,String cursos){
+    public void inic(String id ,String usuario,String contraseña,String nombre,String materias,String cursos,String tipo){
 
 
 
@@ -163,7 +164,7 @@ public class basedeinicio extends SQLiteOpenHelper {
 
 
 
-            bd.execSQL("UPDATE INICIO SET USUARIO='"+usuario+"',CONTRASEÑA='"+contraseña+"',NOMBRE='"+nombre+"',MATERIAS='"+materias+"',CURSOS='"+cursos+"' WHERE ID='"+id+"'");
+            bd.execSQL("UPDATE INICIO SET USUARIO='"+usuario+"',CONTRASEÑA='"+contraseña+"',NOMBRE='"+nombre+"',MATERIAS='"+materias+"',CURSOS='"+cursos+"' ,TIPO='"+tipo+"'WHERE ID='"+id+"'");
 
 
 

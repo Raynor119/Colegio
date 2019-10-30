@@ -4,18 +4,19 @@ import android.app.usage.*;
 
 
 	public class usa {
-	private String  Id,Usuario,Contraseña,Nombre,Materias,Cursos;
+	private String  Id,Usuario,Contraseña,Nombre,Materias,Cursos,Tipo;
 
 	public usa(){
 
 	}
-	public usa(String id,String usuario,String contraseña,String nombre,String materias,String cursos){
+	public usa(String id,String usuario,String contraseña,String nombre,String materias,String cursos,String tipo){
         this.Id=id;
 		this.Usuario=usuario;
 		this.Contraseña=contraseña;
 		this.Nombre=nombre;
 		this.Materias=materias;
 		this.Cursos=cursos;
+		this.Tipo=tipo;
 	}
 	
 	public String getId(){
@@ -82,6 +83,17 @@ import android.app.usage.*;
 		Cursos=cursos;
 
 	}
+		public String getTipo(){
+
+			return Tipo;
+
+		}
+
+		public void setTipo(String tipo){
+
+			Tipo=tipo;
+
+		}
 	
 	
 }
