@@ -44,9 +44,9 @@
 				<TextView
 					style="@style/headerText"
 					android:layout_gravity="center"
-					android:text="Profesores"
 					android:layout_marginTop="40dp"
-					android:textSize="26dp"/>
+					android:text="PROFESORES"
+					android:textSize="26dp" />
 
 				<android.support.v7.widget.CardView
 					xmlns:android="http://schemas.android.com/apk/res/android"

@@ -103,7 +103,7 @@ context=this;
                     n=true;
 
                 }
-            },500);
+            },1500);
         }else {
             String Url = "https://colegiobartolome.000webhostapp.com/mensajeslist.php?tabla=" + tabla;
             JsonArrayRequest jsonArrayRequest = new JsonArrayRequest(Url, new Response.Listener<JSONArray>() {

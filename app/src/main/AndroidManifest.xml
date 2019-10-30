@@ -10,10 +10,25 @@
         android:label="@string/app_name"
         android:resizeableActivity="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".admi"></activity>
+        <activity android:name=".mostrarevento"></activity>
+        <activity
+            android:name=".agregarevento"
+            android:label="Agregar Evento" />
+        <activity android:name=".editare" />
+        <activity android:name=".eventos" />
+        <activity
+            android:name=".menuadmi"
+            android:label="ADMINISTRATIVO"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name=".dialogoadmi"
+            android:theme="@style/thme" />
+        <activity
+            android:name=".admi"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".cambiarcontra"
-            android:label="Cambiar Contraseña"></activity>
+            android:label="Cambiar Contraseña" />
         <activity
             android:name=".agregar"
             android:label="Agregar Mensajes" />
@@ -24,15 +39,15 @@
         <activity android:name=".mensajeses" />
         <activity
             android:name=".materiase"
-            android:label="Materias"
+            android:label="MATERIAS"
             android:theme="@style/scrollvir" />
         <activity
             android:name=".cursosesn"
-            android:label="Cursos"
+            android:label="CURSOS"
             android:theme="@style/scrollvir" />
         <activity
             android:name=".cursoses"
-            android:label="Cursos"
+            android:label="CURSOS"
             android:theme="@style/scrollvir" />
         <activity android:name=".estudaintesc" />
         <activity
@@ -41,14 +56,15 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".menucursos"
-            android:label="Cursos"
+            android:label="CURSOS"
             android:theme="@style/scrollvir" />
         <activity
             android:name=".menuprofesores"
-            android:label="Materias"
+            android:label="MATERIAS"
             android:theme="@style/scrollvir" />
         <activity
             android:name=".sede"
+            android:label="SELECCION DE SEDE"
             android:theme="@style/apptem" />
         <activity
             android:name=".dialogcarga"

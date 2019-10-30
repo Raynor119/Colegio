@@ -136,7 +136,8 @@
 											<TextView
 												android:layout_width="wrap_content"
 												android:layout_height="wrap_content"
-												android:text="Estudiantes"
+												android:text="ESTUDIANTES"
+												style="@style/headerText"
 												android:textColor="#FFFFFF"
 												android:textSize="22sp" />
 
@@ -194,7 +195,8 @@
 											<TextView
 												android:layout_width="wrap_content"
 												android:layout_height="wrap_content"
-												android:text="Profesores"
+												android:text="PROFESORES"
+												style="@style/headerText"
 												android:textColor="#FFFFFF"
 												android:textSize="22sp" />
 
@@ -219,6 +221,7 @@
 										android:layout_height="match_parent"
 										android:background="@drawable/boton"
 										android:gravity="center"
+										android:onClick="onclicee"
 										android:orientation="horizontal">
 
 										<android.support.v7.widget.CardView
@@ -250,11 +253,12 @@
 											android:orientation="vertical">
 
 											<TextView
+												style="@style/headerText"
 												android:layout_width="wrap_content"
 												android:layout_height="wrap_content"
-												android:text="Administrativo"
+												android:text="ADMINISTRATIVO"
 												android:textColor="#FFFFFF"
-												android:textSize="22sp" />
+												android:textSize="21sp" />
 
 										</LinearLayout>
 

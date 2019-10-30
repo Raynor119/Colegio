@@ -193,11 +193,37 @@ public class menuprofesores extends AppCompatActivity
 
 
 			finish();
+        }else if (id == R.id.nav_shar) {
+            alert.setMessage("Seleccione Acual sede Pertenece")
+                    .setCancelable(false)
+                    .setPositiveButton("CENTRAL", new DialogInterface.OnClickListener(){
+                        @Override
+                        public void onClick(DialogInterface dialog,int which){
+                            Intent intent=new Intent(menuprofesores.this,mostrarevento.class);
+                            intent.putExtra("sede","0");
+                            startActivity(intent);
+
+                        }
+
+                    })
+                    .setNegativeButton("COMUNEROS", new DialogInterface.OnClickListener(){
+                        @Override
+
+                        public void onClick(DialogInterface dialog,int which){
+                            Intent intent=new Intent(menuprofesores.this,mostrarevento.class);
+                            intent.putExtra("sede","1");
+                            startActivity(intent);
+                        }
+
+                    });
+            AlertDialog titulo=alert.create();
+            titulo.setTitle("Alerta");
+            titulo.show();
         }
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
-    }
+}
 

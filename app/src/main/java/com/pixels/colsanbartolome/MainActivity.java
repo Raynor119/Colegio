@@ -58,4 +58,21 @@ public class MainActivity extends AppCompatActivity
 
 		}
 	}
+	public void onclicee(View view){
+		if(n=true) {
+			n = false;
+			if (sede.equals("0")) {
+				Intent intent =new Intent(MainActivity.this,admi.class);
+				intent.putExtra("sede","0");
+				startActivity(intent);
+				finish();
+			}
+			if (sede.equals("1")) {
+				Intent intent =new Intent(MainActivity.this,admi.class);
+				intent.putExtra("sede","1");
+				startActivity(intent);
+				finish();
+			}
+		}
+	}
 }

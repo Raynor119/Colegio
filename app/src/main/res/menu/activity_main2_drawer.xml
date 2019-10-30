@@ -10,6 +10,15 @@
             android:icon="@drawable/ic_menu_manage"
             android:title="Cambiar Contraseña" />
     </group>
+    <item android:title="Alertas Administartivas">
+        <menu>
+            <item
+                android:id="@+id/nav_shar"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Mensajes Administrativos" />
+
+        </menu>
+    </item>
 
     <item android:title="Otras Opciones">
         <menu>

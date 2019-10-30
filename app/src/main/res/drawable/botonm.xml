@@ -5,12 +5,12 @@
 	<gradient
 		android:angle="45"
 		android:centerX="35%"
-		android:startColor="#2A2977"
-		android:endColor="#3E3D94"
+		android:startColor="#39389C"
+		android:endColor="#4544A8"
 		android:type="linear"
 		/>
 	<stroke
-		android:width="4dp"
+		android:width="1dp"
 		android:color="#323232"/>
 
 	<corners
