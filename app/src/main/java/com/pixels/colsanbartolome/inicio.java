@@ -181,26 +181,15 @@ public class inicio extends AppCompatActivity
 
 													hora=hora+cuc;
 												}
-
 												builder.setContentTitle("Nueva Notificacion");
-
 												builder.setContentText("");
-
 												builder.setColor(Color.WHITE);
-
 												builder.setPriority(NotificationCompat.PRIORITY_DEFAULT);
-
 												builder.setLights(Color.MAGENTA, 10000, 10000);
-
 												builder.setVibrate(new long[]{1000, 1000, 1000, 1000, 1000});
-
 												builder.setDefaults(Notification.DEFAULT_SOUND);
 												builder.setStyle(new NotificationCompat.BigTextStyle().bigText(promedioLista.get(i).getNotificaion()+" En la Fecha : "+fecha+" alas "+hora)).build();
-
-
-
 												NotificationManagerCompat notificationManagerCompat = NotificationManagerCompat.from(getApplicationContext());
-
 												notificationManagerCompat.notify(NOTIFICACION_ID, builder.build());
 												//Toast.makeText(getApplicationContext(), ""+b+"  "+finalNotiguardadas.get(0).getId(), Toast.LENGTH_LONG).show();
 												nnn.agregarE(promedioLista.get(i).getId());
