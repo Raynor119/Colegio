@@ -63,7 +63,8 @@ public class materiase extends AppCompatActivity {
                 for(int i=0;i<curs1.length();i++){
                     char l=curs1.charAt(i);
                     String ll=""+l;
-                    if(ll.equals(" ")||ll.equals(",")||ll.equals(".")){
+                    if(ll.equals(" ")||ll.equals(",")||ll.equals(".")||
+                            ll.equals("-")){
                     }else{
                         mat=mat+ll;
                     }
