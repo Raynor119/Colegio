@@ -23,7 +23,7 @@ import java.util.Locale;
 import java.util.Map;
 
 public class cambiarcontra extends AppCompatActivity {
-String Usuario,Nombre,Materias,Cursos;
+String Usuario,Nombre,Materias,Cursos,Tipo;
     boolean n=true;
     EditText contra;
     @Override
@@ -35,6 +35,7 @@ String Usuario,Nombre,Materias,Cursos;
         Nombre=extra.getString("nombre");
         Materias=extra.getString("materias");
         Cursos=extra.getString("cursos");
+		Tipo=extra.getString("tipo");
         contra=(EditText)findViewById(R.id.editText2);
         Button bton=findViewById(R.id.cirLoginButton);
         bton.setOnClickListener(new View.OnClickListener() {
@@ -96,6 +97,7 @@ String Usuario,Nombre,Materias,Cursos;
                 parametros.put("nombre", Nombre);
                 parametros.put("materias", Materias);
                 parametros.put("cursos", Cursos);
+				parametros.put("tipo", Tipo);
 
 
                 return parametros;

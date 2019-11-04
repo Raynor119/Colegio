@@ -160,11 +160,20 @@ public class menuprofesores extends AppCompatActivity
                     .setPositiveButton("Si", new DialogInterface.OnClickListener(){
                         @Override
                         public void onClick(DialogInterface dialog,int which){
+							basedeinicio nn=new basedeinicio(getApplicationContext());
+							usa c=new usa();
+
+							nn.buscu(c,"1");
+
+							List<usa> usurr=new ArrayList<>();
+
+							usurr=nn.obtusur();
                             Intent intent=new Intent(menuprofesores.this,cambiarcontra.class);
                             intent.putExtra("usuario",Usuario1);
                             intent.putExtra("nombre",Nombre1);
                             intent.putExtra("materias",Materias);
                             intent.putExtra("cursos",Cursos);
+							intent.putExtra("tipo",usurr.get(0).getTipo());
                             startActivity(intent);
                             finish();
 

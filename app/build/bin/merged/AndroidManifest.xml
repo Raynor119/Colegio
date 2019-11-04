@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="21"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="27" />
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -17,19 +17,63 @@
         android:resizeableActivity="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="com.pixels.colsanbartolome.metas"
+            android:label="PRECENTACION Y METAS" />
+        <activity android:name="com.pixels.colsanbartolome.mostrarevento" />
+        <activity
+            android:name="com.pixels.colsanbartolome.agregarevento"
+            android:label="Agregar Evento" />
+        <activity android:name="com.pixels.colsanbartolome.editare" />
+        <activity android:name="com.pixels.colsanbartolome.eventos" />
+        <activity
+            android:name="com.pixels.colsanbartolome.menuadmi"
+            android:label="ADMINISTRATIVO"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name="com.pixels.colsanbartolome.dialogoadmi"
+            android:theme="@style/thme" />
+        <activity
+            android:name="com.pixels.colsanbartolome.admi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.pixels.colsanbartolome.cambiarcontra"
+            android:label="Cambiar Contraseña" />
+        <activity
+            android:name="com.pixels.colsanbartolome.agregar"
+            android:label="Agregar Mensajes" />
+        <activity
+            android:name="com.pixels.colsanbartolome.editar"
+            android:label="Editor de Mensajes" />
+        <activity android:name="com.pixels.colsanbartolome.mensajesprof" />
+        <activity android:name="com.pixels.colsanbartolome.mensajeses" />
+        <activity
+            android:name="com.pixels.colsanbartolome.materiase"
+            android:label="MATERIAS"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name="com.pixels.colsanbartolome.cursosesn"
+            android:label="CURSOS"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name="com.pixels.colsanbartolome.cursoses"
+            android:label="CURSOS"
+            android:theme="@style/scrollvir" />
+        <activity android:name="com.pixels.colsanbartolome.estudaintesc" />
+        <activity
             android:name="com.pixels.colsanbartolome.Main2Activity"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.pixels.colsanbartolome.menucursos"
-            android:label="Cursos"
+            android:label="CURSOS"
             android:theme="@style/scrollvir" />
         <activity
             android:name="com.pixels.colsanbartolome.menuprofesores"
-            android:label="Materias"
+            android:label="MATERIAS"
             android:theme="@style/scrollvir" />
         <activity
             android:name="com.pixels.colsanbartolome.sede"
+            android:label="SELECCION DE SEDE"
             android:theme="@style/apptem" />
         <activity
             android:name="com.pixels.colsanbartolome.dialogcarga"
@@ -56,8 +100,8 @@
         </activity>
 
         <meta-data
-            android:name="android.support.VERSION"
-            android:value="26.0.0" />
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
     </application>
 
 </manifest>

@@ -23,8 +23,15 @@
 	<TextView
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
-		android:text="v1.0"
 		android:layout_marginTop="130dp"
+		android:textColor="#FFFFFF"
+		android:text="© Power by: Facam Solutions"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="v1.0"
+		android:layout_marginTop="10dp"
 		android:textColor="#FFFFFF"/>
 
 </LinearLayout>

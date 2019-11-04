@@ -10,6 +10,8 @@
         android:label="@string/app_name"
         android:resizeableActivity="true"
         android:theme="@style/AppTheme">
+		<activity android:name=".metas"
+			android:label="PRECENTACION Y METAS"/>
         <activity android:name=".mostrarevento"></activity>
         <activity
             android:name=".agregarevento"

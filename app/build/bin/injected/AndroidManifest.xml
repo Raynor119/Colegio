@@ -7,7 +7,7 @@
 
 	<uses-sdk
 		android:minSdkVersion="21"
-		android:targetSdkVersion="26"/>
+		android:targetSdkVersion="27"/>
 
 	<uses-permission
 		android:name="android.permission.INTERNET"/>
@@ -20,22 +20,89 @@
 		android:theme="@style/AppTheme">
 
 		<activity
+			android:name=".metas"
+			android:label="PRECENTACION Y METAS"/>
+
+		<activity
+			android:name=".mostrarevento"/>
+
+		<activity
+			android:name=".agregarevento"
+			android:label="Agregar Evento"/>
+
+		<activity
+			android:name=".editare"/>
+
+		<activity
+			android:name=".eventos"/>
+
+		<activity
+			android:name=".menuadmi"
+			android:label="ADMINISTRATIVO"
+			android:theme="@style/scrollvir"/>
+
+		<activity
+			android:name=".dialogoadmi"
+			android:theme="@style/thme"/>
+
+		<activity
+			android:name=".admi"
+			android:theme="@style/AppTheme.NoActionBar"/>
+
+		<activity
+			android:name=".cambiarcontra"
+			android:label="Cambiar Contraseña"/>
+
+		<activity
+			android:name=".agregar"
+			android:label="Agregar Mensajes"/>
+
+		<activity
+			android:name=".editar"
+			android:label="Editor de Mensajes"/>
+
+		<activity
+			android:name=".mensajesprof"/>
+
+		<activity
+			android:name=".mensajeses"/>
+
+		<activity
+			android:name=".materiase"
+			android:label="MATERIAS"
+			android:theme="@style/scrollvir"/>
+
+		<activity
+			android:name=".cursosesn"
+			android:label="CURSOS"
+			android:theme="@style/scrollvir"/>
+
+		<activity
+			android:name=".cursoses"
+			android:label="CURSOS"
+			android:theme="@style/scrollvir"/>
+
+		<activity
+			android:name=".estudaintesc"/>
+
+		<activity
 			android:name=".Main2Activity"
 			android:label="@string/title_activity_main2"
 			android:theme="@style/AppTheme.NoActionBar"/>
 
 		<activity
 			android:name=".menucursos"
-			android:label="Cursos"
+			android:label="CURSOS"
 			android:theme="@style/scrollvir"/>
 
 		<activity
 			android:name=".menuprofesores"
-			android:label="Materias"
+			android:label="MATERIAS"
 			android:theme="@style/scrollvir"/>
 
 		<activity
 			android:name=".sede"
+			android:label="SELECCION DE SEDE"
 			android:theme="@style/apptem"/>
 
 		<activity
