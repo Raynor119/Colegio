@@ -20,6 +20,14 @@
 		android:theme="@style/AppTheme">
 
 		<activity
+			android:name=".menuestudiantes"
+			android:label="ESTUDIANTE"
+			android:theme="@style/scrollvires"/>
+
+		<activity
+			android:name=".estudianteinicio"/>
+
+		<activity
 			android:name=".metas"
 			android:label="PRECENTACION Y METAS"/>
 

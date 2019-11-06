@@ -77,7 +77,7 @@ public class inicio extends AppCompatActivity
 
 
 
-						intent =new Intent(inicio.this,sede.class);
+						intent =new Intent(inicio.this,metas.class);
 						startActivity(intent);
 						finish();
 
@@ -218,7 +218,7 @@ public class inicio extends AppCompatActivity
 							requestQueue= Volley.newRequestQueue(context);
 							requestQueue.add(jsonArrayRequest);
 
-							intent = new Intent(inicio.this, sede.class);
+							intent = new Intent(inicio.this, metas.class);
 							startActivity(intent);
 							finish();
 

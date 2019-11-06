@@ -17,6 +17,11 @@
         android:resizeableActivity="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="com.pixels.colsanbartolome.menuestudiantes"
+            android:label="ESTUDIANTE"
+            android:theme="@style/scrollvires" />
+        <activity android:name="com.pixels.colsanbartolome.estudianteinicio" />
+        <activity
             android:name="com.pixels.colsanbartolome.metas"
             android:label="PRECENTACION Y METAS" />
         <activity android:name="com.pixels.colsanbartolome.mostrarevento" />
