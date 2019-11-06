@@ -7,12 +7,28 @@
 
     </group>
 
+            <item
+                android:id="@+id/mater"
+                android:icon="@drawable/materias"
+                android:title="Materias" />
+
+
     <item android:title="Alertas Administartivas">
         <menu>
             <item
                 android:id="@+id/nav_share"
                 android:icon="@drawable/ic_menu_send"
                 android:title="Mensajes Administrativos" />
+
+        </menu>
+    </item>
+
+    <item android:title="Otras Opciones">
+        <menu>
+            <item
+                android:id="@+id/na"
+                android:icon="@drawable/cerrar"
+                android:title="Cerrar sesión" />
 
         </menu>
     </item>

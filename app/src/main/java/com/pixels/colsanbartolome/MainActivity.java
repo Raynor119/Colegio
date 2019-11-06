@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity
 		{
 			n=false;
 			if(sede.equals("0")) {
-				Intent intent =new Intent(MainActivity.this,estudiante.class);
+				Intent intent =new Intent(MainActivity.this,menuestudiantes.class);
 
 				startActivity(intent);
 			}

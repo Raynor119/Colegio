@@ -90,7 +90,7 @@ public class cursoses extends AppCompatActivity implements NavigationView.OnNavi
        // Usuario.setText("");
         Nombre.setText("ESTUDIANTE");
       //  getMenuInflater().inflate(R.menu.main2, menu);
-        return false;
+        return true;
     }
 
     @Override

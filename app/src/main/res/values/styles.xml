@@ -20,9 +20,17 @@
     </style>
 
     <style name="scrollvir" parent="AppTheme.NoActionBar">
-        <item name="colorPrimary">@color/colorPrimaryDark</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+    <item name="colorPrimary">@color/colorPrimaryDark</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+</style>
+    <style name="scrollvires" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="android:title">""</item>
+        <item name="colorPrimaryDark">#9203A9F4</item>
+        <item name="colorAccent">#8BC34A</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
@@ -47,6 +55,11 @@
     <style name="loginParent" parent="parent">
         <item name="android:layout_height">match_parent</item>
         <item name="android:background">@color/loginBkColor</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+    <style name="loginParent1" parent="parent">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#FFFFFF</item>
         <item name="android:focusableInTouchMode">true</item>
     </style>
 
