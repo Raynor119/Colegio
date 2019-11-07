@@ -20,12 +20,22 @@
 		android:theme="@style/AppTheme">
 
 		<activity
+			android:name=".estmateriase"
+			android:label="MATERIAS"
+			android:theme="@style/scrollvires"/>
+
+		<activity
+			android:name=".dialogoestu"
+			android:theme="@style/thme"/>
+
+		<activity
 			android:name=".menuestudiantes"
 			android:label="ESTUDIANTE"
 			android:theme="@style/scrollvires"/>
 
 		<activity
-			android:name=".estudianteinicio"/>
+			android:name=".estudianteinicio"
+			android:theme="@style/scrollvires"/>
 
 		<activity
 			android:name=".metas"

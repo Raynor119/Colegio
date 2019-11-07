@@ -18,12 +18,12 @@
         android:layout_marginRight="33dp"
         android:layout_marginBottom="10dp"
         card_view:cardBackgroundColor="@android:color/transparent"
-        card_view:cardCornerRadius="10dp">
+        card_view:cardCornerRadius="20dp">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@drawable/botonm"
+            android:background="@drawable/botonme"
             android:gravity="center"
             android:orientation="horizontal">
 
@@ -41,9 +41,9 @@
                     android:id="@+id/MAterit"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="#FFFFFF"
+                   android:textColor="#FFFFFF"
                     android:gravity="center"
-                    android:textSize="22sp" />
+                    android:textSize="24sp" />
 
             </LinearLayout>
 

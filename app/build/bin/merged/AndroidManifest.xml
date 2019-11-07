@@ -17,10 +17,19 @@
         android:resizeableActivity="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="com.pixels.colsanbartolome.estmateriase"
+            android:label="MATERIAS"
+            android:theme="@style/scrollvires" />
+        <activity
+            android:name="com.pixels.colsanbartolome.dialogoestu"
+            android:theme="@style/thme" />
+        <activity
             android:name="com.pixels.colsanbartolome.menuestudiantes"
             android:label="ESTUDIANTE"
             android:theme="@style/scrollvires" />
-        <activity android:name="com.pixels.colsanbartolome.estudianteinicio" />
+        <activity
+            android:name="com.pixels.colsanbartolome.estudianteinicio"
+            android:theme="@style/scrollvires" />
         <activity
             android:name="com.pixels.colsanbartolome.metas"
             android:label="PRECENTACION Y METAS" />
@@ -103,10 +112,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <meta-data
-            android:name="android.arch.lifecycle.VERSION"
-            android:value="27.0.0-SNAPSHOT" />
     </application>
 
 </manifest>

@@ -47,7 +47,7 @@ public class dialogoestu extends AppCompatActivity {
         ip c= new ip();
 
         final String ipt=c.ip();
-        String Url="https://colegiobartolome.000webhostapp.com/usulist.php";
+        String Url="https://colegiobartolome.000webhostapp.com/usulistes.php";
         JsonArrayRequest jsonArrayRequest=new JsonArrayRequest(Url, new Response.Listener<JSONArray>() {
 
             @Override

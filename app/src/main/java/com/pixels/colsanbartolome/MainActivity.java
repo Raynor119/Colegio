@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity
 				Intent intent =new Intent(MainActivity.this,estudianteinicio.class);
 
 				startActivity(intent);
+				finish();
 			}
 			if(sede.equals("1")){
 				Intent intent =new Intent(MainActivity.this,cursoses.class);

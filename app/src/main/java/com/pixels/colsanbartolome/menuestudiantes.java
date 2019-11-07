@@ -30,10 +30,12 @@ import org.json.JSONObject;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
+import android.content.res.*;
 
 public class menuestudiantes extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 TextView bien,Nombre,Usuario;
-private Typeface script;
+public static Typeface script;
+	public static Typeface script2;
 String sede;
     boolean n=true;
     String tipo;
@@ -46,6 +48,7 @@ String sede;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+		AssetManager vv;
         setContentView(R.layout.activity_menuestudiantes);
         bien=(TextView)findViewById(R.id.biene);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
@@ -74,7 +77,10 @@ String sede;
         toggle.syncState();
         navigationView.setNavigationItemSelectedListener(this);
         String fuente ="fuentes/orange.ttf";
+		String fuente2 ="fuentes/bial.otf";
         this.script= Typeface.createFromAsset(getAssets(),fuente);
+		this.script2= Typeface.createFromAsset(getAssets(),fuente2);
+		
         bien.setTypeface(script);
         mostrarmensajes("1","0");
     }
@@ -156,9 +162,6 @@ String sede;
             intent.putExtra("curso",Cursos);
             intent.putExtra("mater",Materias);
             startActivity(intent);
-
-
-            finish();
         }
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
