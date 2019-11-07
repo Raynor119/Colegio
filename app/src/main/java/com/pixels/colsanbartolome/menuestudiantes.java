@@ -32,14 +32,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class menuestudiantes extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
-TextView bien,Nombre;
+TextView bien,Nombre,Usuario;
 private Typeface script;
-String sede="0";
+String sede;
     boolean n=true;
     String tipo;
     private RecyclerView reciclemateria;
 
-
+    String Materias,Cursos,Usuario1,Nombre1;
     private MostrarMateryReci3 adaptadormateria;
     public List<meventos> promedioLista =new ArrayList<>();
 
@@ -53,6 +53,20 @@ String sede="0";
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         reciclemateria=(RecyclerView)findViewById(R.id.recyclerMateria1);
         reciclemateria.setLayoutManager(new LinearLayoutManager(this));
+        Bundle extra = getIntent().getExtras();
+        Usuario1=extra.getString("Usuario");
+        Nombre1=extra.getString("Nombre");
+        Materias=extra.getString("Materias");
+        Cursos=extra.getString("Cursos");
+        List<usa> usurr=new ArrayList<>();
+
+        basedeinicio ne=new basedeinicio(getApplicationContext());
+
+        usa c=new usa();
+        ne.buscu(c,"1");
+        usurr=ne.obtusur();
+        char ct=usurr.get(0).getTipo().charAt(0);
+        sede=""+ct;
         NavigationView navigationView = findViewById(R.id.nav_view);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
@@ -79,8 +93,8 @@ String sede="0";
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         Nombre=(TextView)findViewById(R.id.nombreporf);
-        //  Usuario=(TextView)findViewById(R.id.usuarioprof);
-        // Usuario.setText("");
+          Usuario=(TextView)findViewById(R.id.usuarioprof);
+         Usuario.setText(Nombre1);
         Nombre.setText("ESTUDIANTE");
         getMenuInflater().inflate(R.menu.menua, menu);
         return true;
@@ -122,7 +136,30 @@ String sede="0";
 
 
         }
+        if (id == R.id.na) {
+            basedeinicio n = new basedeinicio(getApplicationContext());
+            n.inic("1", "nada","", "", "","","");
 
+
+            Intent intent = new Intent(menuestudiantes.this, MainActivity.class);
+
+            intent.putExtra("sede","0");
+            startActivity(intent);
+
+
+            finish();
+        }
+        if (id == R.id.mater) {
+
+            Intent intent = new Intent(menuestudiantes.this, estmateriase.class);
+
+            intent.putExtra("curso",Cursos);
+            intent.putExtra("mater",Materias);
+            startActivity(intent);
+
+
+            finish();
+        }
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;

@@ -79,10 +79,17 @@
     <style name="headerTextPrimary" parent="headerText">
         <item name="android:textColor">@color/primaryTextColor</item>
     </style>
+    <style name="headerTextPrimary1" parent="headerText">
+        <item name="android:textColor">#2196F3</item>
+    </style>
 
     <style name="modifiedEditText" parent="parent">
         <item name="android:textSize">@dimen/newsMoreTextSize</item>
         <item name="android:backgroundTint">@color/primaryTextColor</item>
+    </style>
+    <style name="modifiedEditText1" parent="parent">
+        <item name="android:textSize">@dimen/newsMoreTextSize</item>
+        <item name="android:backgroundTint">#9203A9F4</item>
     </style>
 
     <style name="viewParent">

@@ -64,7 +64,7 @@ public class MostrarMateryReci2  extends RecyclerView.Adapter<MostrarMateryReci2
 
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType){
 
-        View view= LayoutInflater.from(parent.getContext()).inflate(R.layout.item_materias,parent,false);
+        View view= LayoutInflater.from(parent.getContext()).inflate(R.layout.item_materiases,parent,false);
 
         ViewHolder viewHolder=new ViewHolder(view);
 

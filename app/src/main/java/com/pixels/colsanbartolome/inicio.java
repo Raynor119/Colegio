@@ -238,20 +238,33 @@ public class inicio extends AppCompatActivity
 								finish();
 							}else {
 
+if(usurr.get(0).getTipo().length()==2) {
+	intent = new Intent(inicio.this, menuprofesores.class);
 
-								intent = new Intent(inicio.this, menuprofesores.class);
-
-								intent.putExtra("Usuario", usurr.get(0).getUsuario());
-								intent.putExtra("Nombre", usurr.get(0).getNombre());
-								intent.putExtra("Materias", usurr.get(0).getMaterias());
-								intent.putExtra("Cursos", usurr.get(0).getCursos());
-
-
-								startActivity(intent);
+	intent.putExtra("Usuario", usurr.get(0).getUsuario());
+	intent.putExtra("Nombre", usurr.get(0).getNombre());
+	intent.putExtra("Materias", usurr.get(0).getMaterias());
+	intent.putExtra("Cursos", usurr.get(0).getCursos());
 
 
-								finish();
+	startActivity(intent);
 
+
+	finish();
+}else {
+	intent = new Intent(inicio.this, menuestudiantes.class);
+
+	intent.putExtra("Usuario", usurr.get(0).getUsuario());
+	intent.putExtra("Nombre", usurr.get(0).getNombre());
+	intent.putExtra("Materias", usurr.get(0).getMaterias());
+	intent.putExtra("Cursos", usurr.get(0).getCursos());
+
+
+	startActivity(intent);
+
+
+	finish();
+}
 							}
 
 						}
