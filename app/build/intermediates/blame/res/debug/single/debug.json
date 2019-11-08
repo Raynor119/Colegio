@@ -1,0 +1,2242 @@
+[
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_metas.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_metas.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menucursos.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_menucursos.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_estudiante.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xxxhdpi\\estudiante.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_inicioprof.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\inicioprof.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_agregar.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_agregar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.jpeg.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_materias.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\item_materias.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_compete.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_compete.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_admi.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xxhdpi\\admi.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_register.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\layout_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bombillo.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\bombillo.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inicio2.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\inicio2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21_design_appbar_state_list_animator.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main2_drawer.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\nav_header_main2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbare.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\toolbare.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line1.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\line1.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_matemati.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_matemati.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mater.jpg.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\mater.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_eventos.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_eventos.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cambiarcontra.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_cambiarcontra.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_standalone_player_demo.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\standalone_player_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher3.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher3.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_estudianteinicio.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_estudianteinicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_estmateriase.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_estmateriase.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_botonmee.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\botonmee.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_curso.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xhdpi\\curso.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_botonme.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\botonme.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_profesores.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xxxhdpi\\profesores.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dialogoadmi.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_dialogoadmi.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_menucursos.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\content_menucursos.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_estudiante.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-mdpi\\estudiante.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_design_error.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\raw_v1.mp4.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\raw\\v1.mp4"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_profesores.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-mdpi\\profesores.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sede.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_sede.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_materiases.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\item_materiases.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_estudiante.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-hdpi\\estudiante.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_login.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\layout_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_profesores.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-hdpi\\profesores.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\menu_main1_drawer.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\menu\\main1_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_admi.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-mdpi\\admi.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aptura.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\aptura.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_curso.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-mdpi\\curso.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\raw_v6.mp4.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\raw\\v6.mp4"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ingle.jpg.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\ingle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_menuprofesores.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\menu\\menu_menuprofesores.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cerrar.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_curso.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xxhdpi\\curso.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materiase.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_materiase.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menuprofesores.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_menuprofesores.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\boton.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_login_button_bk.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable-v24\\login_button_bk.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inicio.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_historia.jpg.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\historia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\menu_main2.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_login_bk.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\ic_login_bk.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mate.jpg.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\mate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_tooltip_enter.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nose.jpg.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\nose.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_tollboxp.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\tollboxp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_botonm.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\botonm.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tips.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondoescolar.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\fondoescolar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mensajesprof.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_mensajesprof.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mensajeses.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_mensajeses.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\side.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_dialogcarga.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\layout_dialogcarga.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fond.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\fond.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mostrarevento.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_mostrarevento.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_tooltip.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_editar.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_editar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_puntaje.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_puntaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\fondo.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_3.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\image_3.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main2.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\content_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_esp.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_esp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_agregarevento.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_agregarevento.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_1.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\image_1.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lengua.jpg.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\lengua.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\menu_main3_drawer.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\menu\\main3_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\raw_video.mp4.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\raw\\video.mp4"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_mensaje.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\item_mensaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_login.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout-sw600dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cursosesn.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_cursosesn.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbaress.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\toolbaress.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_inicio.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_menuprofesores.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\content_menuprofesores.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_curso.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xxxhdpi\\curso.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\44c07b9bc9ef19d8424f3c3d2483a395\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main1_drawer.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\nav_header_main1_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dialogoestu.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_dialogoestu.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_estudiante.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xhdpi\\estudiante.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_varie.jpg.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\varie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admi.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_admi.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images.jpg.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_historia.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_historia.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_editare.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_editare.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\menu_menua.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\menu\\menua.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main2_drawer.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_admi.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xhdpi\\admi.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\44c07b9bc9ef19d8424f3c3d2483a395\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_profesores.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xhdpi\\profesores.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_profesores.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xxhdpi\\profesores.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_curso.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-hdpi\\curso.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fonoes.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\fonoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\44c07b9bc9ef19d8424f3c3d2483a395\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menuestudiantes.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_menuestudiantes.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_shape_bk.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\login_shape_bk.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\raw_v5.mp4.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\raw\\v5.mp4"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_estudaintesc.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_estudaintesc.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\raw_v4.mp4.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\raw\\v4.mp4"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_estudiante.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xxhdpi\\estudiante.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menuadmi.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_menuadmi.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_estudiante.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_estudiante.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ambien.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_ambien.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\44c07b9bc9ef19d8424f3c3d2483a395\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ingle.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_ingle.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\44c07b9bc9ef19d8424f3c3d2483a395\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_tolbarvi.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\tolbarvi.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cursoses.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\activity_cursoses.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\raw_v2.mp4.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\raw\\v2.mp4"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\44c07b9bc9ef19d8424f3c3d2483a395\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_cursos.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\item_cursos.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_admi.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xxxhdpi\\admi.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\82fd070dd78a29783609b49b9eee563f\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\44c07b9bc9ef19d8424f3c3d2483a395\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_in.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main2.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\nav_header_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_materias.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\materias.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_admi.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-hdpi\\admi.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sede.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\sede.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inici.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\inici.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_compe.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\compe.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medioa.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\medioa.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mensa.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\mensa.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_menucursos.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\menu\\menu_menucursos.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\75f8e43de09689f654bdc97a7720fa84\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\raw_v3.mp4.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\raw\\v3.mp4"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\44c07b9bc9ef19d8424f3c3d2483a395\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher2.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_2.png.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\image_2.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bartojodido.jpg.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\drawable\\bartojodido.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\44c07b9bc9ef19d8424f3c3d2483a395\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_eventos.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\item_eventos.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main2.xml.flat",
+        "source": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\src\\main\\res\\layout\\app_bar_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\PC GAMER\\.gradle\\caches\\transforms-2\\files-2.1\\3128717dc71cc275b75396e63943a36f\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    }
+]

@@ -59,7 +59,7 @@ public class menucursos extends AppCompatActivity {
                 for(int i=0;i<curs1.length();i++){
                     char l=curs1.charAt(i);
                     String ll=""+l;
-                    if(ll.equals("-")){
+                    if(ll.equals("-")||ll.equals(" ")){
                     }else{
                         cur=cur+ll;
                     }
@@ -75,6 +75,7 @@ public class menucursos extends AppCompatActivity {
                 }
                 tbd=cur+mat;
                 Intent intent=new Intent(menucursos.this,mensajesprof.class);
+               // Toast.makeText(getApplicationContext(), cur+mat, Toast.LENGTH_LONG).show();
                 intent.putExtra("tabla",cur+mat);
                 intent.putExtra("materia",Materias);
                 intent.putExtra("curso",curs1);

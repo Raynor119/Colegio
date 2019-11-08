@@ -196,8 +196,8 @@ public class menuprofesores extends AppCompatActivity
 			n.inic("1", "nada","", "", "","","");
 
 
-			Intent intent = new Intent(menuprofesores.this, sede.class);
-
+			Intent intent = new Intent(menuprofesores.this, MainActivity.class);
+            intent.putExtra("sede","0");
 
 			startActivity(intent);
 

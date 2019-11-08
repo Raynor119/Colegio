@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="de las siguientes palabras que se escriben con g, escoge la repuesta correcta" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="hindigena" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="indijena" />
+
+                    <RadioButton
+                        android:id="@+id/p1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="indigena" />
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                android:layout_marginTop="20dp"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="entre estos terminos selecciona el escrito correctamente" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="canpana" />
+
+                    <RadioButton
+                        android:id="@+id/p2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="campana" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="enbudo" />
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                android:layout_marginTop="20dp"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="se escribe con h" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="ilo" />
+
+                    <RadioButton
+                        android:id="@+id/p3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="huella" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="uella" />
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                android:layout_marginTop="20dp"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="se escribe correctamente" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="sorro" />
+
+                    <RadioButton
+                        android:id="@+id/p4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="casa" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="maza" />
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

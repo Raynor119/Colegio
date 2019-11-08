@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pixels.colsanbartolome"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="com.frab.permission.C2D_MESSAGE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <permission
+        android:name="com.frab.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:resizeableActivity="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.pixels.colsanbartolome.puntaje"
+            android:theme="@style/scrollvires" />
+        <activity
+            android:name="com.pixels.colsanbartolome.matemati"
+            android:theme="@style/AppTt" />
+        <activity
+            android:name="com.pixels.colsanbartolome.compete"
+            android:theme="@style/AppTt" />
+        <activity
+            android:name="com.pixels.colsanbartolome.ambien"
+            android:theme="@style/AppTt" />
+        <activity
+            android:name="com.pixels.colsanbartolome.ingle"
+            android:theme="@style/AppTt" />
+        <activity
+            android:name="com.pixels.colsanbartolome.historia"
+            android:theme="@style/AppTt" />
+        <activity
+            android:name="com.pixels.colsanbartolome.esp"
+            android:theme="@style/AppTt" />
+        <activity
+            android:name="com.pixels.colsanbartolome.tips"
+            android:theme="@style/scrollvires" />
+
+        <service
+            android:name="com.pixels.colsanbartolome.servicionoti"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name="com.pixels.colsanbartolome.estmateriase"
+            android:label="MATERIAS"
+            android:theme="@style/scrollvires" />
+        <activity
+            android:name="com.pixels.colsanbartolome.dialogoestu"
+            android:theme="@style/thme" />
+        <activity
+            android:name="com.pixels.colsanbartolome.menuestudiantes"
+            android:label="ESTUDIANTE"
+            android:theme="@style/scrollvires" />
+        <activity
+            android:name="com.pixels.colsanbartolome.estudianteinicio"
+            android:theme="@style/scrollvires" />
+        <activity
+            android:name="com.pixels.colsanbartolome.metas"
+            android:label="PRECENTACION Y METAS" />
+        <activity android:name="com.pixels.colsanbartolome.mostrarevento" />
+        <activity
+            android:name="com.pixels.colsanbartolome.agregarevento"
+            android:label="Agregar Evento" />
+        <activity android:name="com.pixels.colsanbartolome.editare" />
+        <activity android:name="com.pixels.colsanbartolome.eventos" />
+        <activity
+            android:name="com.pixels.colsanbartolome.menuadmi"
+            android:label="ADMINISTRATIVO"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name="com.pixels.colsanbartolome.dialogoadmi"
+            android:theme="@style/thme" />
+        <activity
+            android:name="com.pixels.colsanbartolome.admi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.pixels.colsanbartolome.cambiarcontra"
+            android:label="Cambiar Contraseña" />
+        <activity
+            android:name="com.pixels.colsanbartolome.agregar"
+            android:label="Agregar Mensajes" />
+        <activity
+            android:name="com.pixels.colsanbartolome.editar"
+            android:label="Editor de Mensajes" />
+        <activity android:name="com.pixels.colsanbartolome.mensajesprof" />
+        <activity
+            android:name="com.pixels.colsanbartolome.mensajeses"
+            android:theme="@style/AppT" />
+        <activity
+            android:name="com.pixels.colsanbartolome.materiase"
+            android:label="MATERIAS"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name="com.pixels.colsanbartolome.cursosesn"
+            android:label="CURSOS"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name="com.pixels.colsanbartolome.cursoses"
+            android:label="CURSOS"
+            android:theme="@style/scrollvir" />
+        <activity android:name="com.pixels.colsanbartolome.estudaintesc" />
+        <activity
+            android:name="com.pixels.colsanbartolome.Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.pixels.colsanbartolome.menucursos"
+            android:label="CURSOS"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name="com.pixels.colsanbartolome.menuprofesores"
+            android:label="MATERIAS"
+            android:theme="@style/scrollvir" />
+        <activity
+            android:name="com.pixels.colsanbartolome.sede"
+            android:label="SELECCION DE SEDE"
+            android:theme="@style/apptem" />
+        <activity
+            android:name="com.pixels.colsanbartolome.dialogcarga"
+            android:theme="@style/thme" />
+        <activity
+            android:name="com.pixels.colsanbartolome.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.pixels.colsanbartolome.estudiante"
+            android:label="Estudiantes"
+            android:theme="@style/apptem" />
+        <activity
+            android:name="com.pixels.colsanbartolome.iniciarprofesores"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.pixels.colsanbartolome.inicio"
+            android:theme="@style/thme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

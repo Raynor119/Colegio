@@ -105,9 +105,9 @@ public class menuadmi extends AppCompatActivity
                 n.inic("1", "nada","", "", "","","");
 
 
-                Intent intent = new Intent(menuadmi.this, sede.class);
+                Intent intent = new Intent(menuadmi.this, MainActivity.class);
 
-
+              intent.putExtra("sede","0");
                 startActivity(intent);
 
 

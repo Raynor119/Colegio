@@ -2,6 +2,7 @@ package com.pixels.colsanbartolome;
 
 import android.content.Intent;
 import android.graphics.Typeface;
+import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -39,6 +40,7 @@ public static Typeface script;
 String sede;
     boolean n=true;
     String tipo;
+    int nn=0;
     private RecyclerView reciclemateria;
 
     String Materias,Cursos,Usuario1,Nombre1;
@@ -62,7 +64,20 @@ String sede;
         Materias=extra.getString("Materias");
         Cursos=extra.getString("Cursos");
         List<usa> usurr=new ArrayList<>();
+if(nn==0){
+    stopService(new Intent(menuestudiantes.this,servicionoti.class));
+    startService(new Intent(menuestudiantes.this,servicionoti.class));
 
+    nn=1;
+}
+        FloatingActionButton fab = findViewById(R.id.floatingActionButton);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+               Intent intent=new Intent(menuestudiantes.this,tips.class);
+               startActivity(intent);
+            }
+        });
         basedeinicio ne=new basedeinicio(getApplicationContext());
 
         usa c=new usa();
@@ -245,5 +260,6 @@ String sede;
             requestQueue.add(jsonArrayRequest);
         }
     }
+
 
 }

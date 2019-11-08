@@ -1,0 +1,415 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:2:1-149:12
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:2:1-149:12
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:2:1-149:12
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:2:1-149:12
+MERGED from [com.android.support:design:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\75f8e43de09689f654bdc97a7720fa84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\3128717dc71cc275b75396e63943a36f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\415eb101b689f1ae91b58ca51abd65aa\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\18d7e5d4daaf490b1ba9b090ba20e993\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f33557506aa6db9deff597ad3885c75e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\67715c594d34bf82c4923fa8c74b5f67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\c2a9c8c77f7dcc5275ae8defedfcafe9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\5692f983a3d2689e99d0f7c5f70d1e79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\ef266ff2e04a010586c4aea6bcb2956a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f00dab4198687a6db62abd0d7283e561\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\10fb44c46709bea8f751d614d1b6befe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\d6640aac17ad3676a10da7e5577ff64a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\44c07b9bc9ef19d8424f3c3d2483a395\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f06595ee229800355f5fdc4fad4f12b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\82fd070dd78a29783609b49b9eee563f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\a55815035f7db57ac887ff79a8463ed7\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:2:1-149:12
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:2:1-149:12
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:2:1-149:12
+	package
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:2:1-149:12
+		INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:2:1-149:12
+		INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:9:5-82
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:9:22-79
+uses-permission#com.frab.permission.C2D_MESSAGE
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:14:22-63
+permission#com.frab.permission.C2D_MESSAGE
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:16:5-18:47
+	android:protectionLevel
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:17:9-55
+application
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:20:5-147:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\415eb101b689f1ae91b58ca51abd65aa\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\415eb101b689f1ae91b58ca51abd65aa\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f33557506aa6db9deff597ad3885c75e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f33557506aa6db9deff597ad3885c75e\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\a55815035f7db57ac887ff79a8463ed7\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\a55815035f7db57ac887ff79a8463ed7\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:23:9-41
+	android:resizeableActivity
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:24:9-42
+	android:icon
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.pixels.colsanbartolome.puntaje
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:26:9-27:60
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:26:19-42
+activity#com.pixels.colsanbartolome.matemati
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:28:9-29:53
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:29:13-41
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:28:19-43
+activity#com.pixels.colsanbartolome.compete
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:30:9-31:43
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:31:13-41
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:30:19-42
+activity#com.pixels.colsanbartolome.ambien
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:32:9-33:43
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:33:13-41
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:32:19-41
+activity#com.pixels.colsanbartolome.ingle
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:34:9-35:43
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:35:13-41
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:34:19-40
+activity#com.pixels.colsanbartolome.historia
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:36:9-37:43
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:37:13-41
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:36:19-43
+activity#com.pixels.colsanbartolome.esp
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:38:9-39:43
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:39:13-41
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:38:19-38
+activity#com.pixels.colsanbartolome.tips
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:40:9-42:59
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:42:13-47
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:41:13-33
+service#com.pixels.colsanbartolome.servicionoti
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:44:9-47:39
+	android:enabled
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:45:13-41
+activity#com.pixels.colsanbartolome.estmateriase
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:49:9-52:50
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:51:13-37
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:52:13-47
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:50:13-41
+activity#com.pixels.colsanbartolome.dialogoestu
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:53:9-55:43
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:55:13-40
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:54:13-40
+activity#com.pixels.colsanbartolome.menuestudiantes
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:56:9-59:50
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:58:13-39
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:59:13-47
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:57:13-44
+activity#com.pixels.colsanbartolome.estudianteinicio
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:60:9-62:50
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:62:13-47
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:61:13-45
+activity#com.pixels.colsanbartolome.metas
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:63:9-65:52
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:64:13-34
+activity#com.pixels.colsanbartolome.mostrarevento
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:66:9-51
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:66:19-48
+activity#com.pixels.colsanbartolome.agregarevento
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:67:9-69:46
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:69:13-43
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:68:13-42
+activity#com.pixels.colsanbartolome.editare
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:70:9-45
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:70:19-42
+activity#com.pixels.colsanbartolome.eventos
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:71:9-45
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:71:19-42
+activity#com.pixels.colsanbartolome.menuadmi
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:72:9-75:48
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:74:13-43
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:75:13-45
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:73:13-37
+activity#com.pixels.colsanbartolome.dialogoadmi
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:76:9-78:43
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:78:13-40
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:77:13-40
+activity#com.pixels.colsanbartolome.admi
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:79:9-81:59
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:81:13-56
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:80:13-33
+activity#com.pixels.colsanbartolome.cambiarcontra
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:82:9-84:50
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:84:13-47
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:83:13-42
+activity#com.pixels.colsanbartolome.agregar
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:85:9-87:48
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:87:13-45
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:86:13-36
+activity#com.pixels.colsanbartolome.editar
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:88:9-90:50
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:90:13-47
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:89:13-35
+activity#com.pixels.colsanbartolome.mensajesprof
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:91:9-50
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:91:19-47
+activity#com.pixels.colsanbartolome.mensajeses
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:92:9-94:43
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:94:13-40
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:93:13-39
+activity#com.pixels.colsanbartolome.materiase
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:95:9-98:48
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:97:13-37
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:98:13-45
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:96:13-38
+activity#com.pixels.colsanbartolome.cursosesn
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:99:9-102:48
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:101:13-35
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:102:13-45
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:100:13-38
+activity#com.pixels.colsanbartolome.cursoses
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:103:9-106:48
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:105:13-35
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:106:13-45
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:104:13-37
+activity#com.pixels.colsanbartolome.estudaintesc
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:107:9-50
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:107:19-47
+activity#com.pixels.colsanbartolome.Main2Activity
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:108:9-111:59
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:110:13-57
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:111:13-56
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:109:13-42
+activity#com.pixels.colsanbartolome.menucursos
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:112:9-115:48
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:114:13-35
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:115:13-45
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:113:13-39
+activity#com.pixels.colsanbartolome.menuprofesores
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:116:9-119:48
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:118:13-37
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:119:13-45
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:117:13-43
+activity#com.pixels.colsanbartolome.sede
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:120:9-123:45
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:122:13-46
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:123:13-42
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:121:13-33
+activity#com.pixels.colsanbartolome.dialogcarga
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:124:9-126:43
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:126:13-40
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:125:13-40
+activity#com.pixels.colsanbartolome.MainActivity
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:127:9-129:59
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:129:13-56
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:128:13-41
+activity#com.pixels.colsanbartolome.estudiante
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:130:9-133:45
+	android:label
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:132:13-40
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:133:13-42
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:131:13-39
+activity#com.pixels.colsanbartolome.iniciarprofesores
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:134:9-137:59
+	android:supportsRtl
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:136:13-39
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:137:13-56
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:135:13-46
+activity#com.pixels.colsanbartolome.inicio
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:138:9-146:20
+	android:theme
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:140:13-40
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:139:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:141:13-145:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:142:17-69
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:142:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:144:17-77
+	android:name
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml:144:27-74
+uses-sdk
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\75f8e43de09689f654bdc97a7720fa84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\75f8e43de09689f654bdc97a7720fa84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\3128717dc71cc275b75396e63943a36f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\3128717dc71cc275b75396e63943a36f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\415eb101b689f1ae91b58ca51abd65aa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\415eb101b689f1ae91b58ca51abd65aa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\18d7e5d4daaf490b1ba9b090ba20e993\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\18d7e5d4daaf490b1ba9b090ba20e993\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f33557506aa6db9deff597ad3885c75e\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f33557506aa6db9deff597ad3885c75e\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\67715c594d34bf82c4923fa8c74b5f67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\67715c594d34bf82c4923fa8c74b5f67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\c2a9c8c77f7dcc5275ae8defedfcafe9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\c2a9c8c77f7dcc5275ae8defedfcafe9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\5692f983a3d2689e99d0f7c5f70d1e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\5692f983a3d2689e99d0f7c5f70d1e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\ef266ff2e04a010586c4aea6bcb2956a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\ef266ff2e04a010586c4aea6bcb2956a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f00dab4198687a6db62abd0d7283e561\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f00dab4198687a6db62abd0d7283e561\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\10fb44c46709bea8f751d614d1b6befe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\10fb44c46709bea8f751d614d1b6befe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\d6640aac17ad3676a10da7e5577ff64a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\d6640aac17ad3676a10da7e5577ff64a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\44c07b9bc9ef19d8424f3c3d2483a395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\44c07b9bc9ef19d8424f3c3d2483a395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f06595ee229800355f5fdc4fad4f12b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\f06595ee229800355f5fdc4fad4f12b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\82fd070dd78a29783609b49b9eee563f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\82fd070dd78a29783609b49b9eee563f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\a55815035f7db57ac887ff79a8463ed7\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\a55815035f7db57ac887ff79a8463ed7\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC GAMER\AndroidStudioProjects\Colegio\app\src\main\AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\a55815035f7db57ac887ff79a8463ed7\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\a55815035f7db57ac887ff79a8463ed7\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PC GAMER\.gradle\caches\transforms-2\files-2.1\a55815035f7db57ac887ff79a8463ed7\AndroidManifest.xml:26:13-58

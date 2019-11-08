@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="¿Cómo se solucionan los problemas en tu clase?" />
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	Acudiendo al gobierno escolar" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	Hablando entre los compañeros" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	El profesor castiga a los responsables" />
+
+                    <RadioButton
+                        android:id="@+id/p1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Hablando con el profesor" />
+                    </RadioGroup>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                android:layout_marginTop="20dp"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="¿Para qué sirven las reglas en un juego?" />
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	Para beneficiar al que las creó" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	Para que gane el más fuerte de todos los participantes" />
+
+                    <RadioButton
+                        android:id="@+id/p2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Para que todos tengan iguales oportunidades de ganar" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	Para impedir que ganen los del otro equipo" />
+                    </RadioGroup>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                android:layout_marginTop="20dp"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Dentro de una familia, ¿quién debe atender y proteger los derechos humanos?" />
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	El padre" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	El padre" />
+
+                    <RadioButton
+                        android:id="@+id/p3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	Todos y cada uno de sus integrantes" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	La madre" />
+                    </RadioGroup>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                android:layout_marginTop="20dp"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="juan empujó accidentalmente a Jorge y éste lo insultó. ¿Qué debería hacer Juan para evitar un conflicto mayor?" />
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	Responder con palabras ofensivas y groseras a quien lo insultó" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	No responder inmediatamente pero desquitarse después" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	No decir nada e irse a otro lugar" />
+
+                    <RadioButton
+                        android:id="@+id/p4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="	Ofrecerle excusas y explicarle a Jorge que fue un accidente" />
+                    </RadioGroup>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Nov 07 17:14:49 COT 2019
+1.base=C\:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=fuentes/bial.otf
+0.set=ASSET
+0.base=C\:\\Users\\PC GAMER\\AndroidStudioProjects\\Colegio\\app\\build\\intermediates\\merged_assets\\debug\\out
+1.path=fuentes/orange.ttf

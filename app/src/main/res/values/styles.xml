@@ -7,7 +7,18 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-
+    <style name="AppT" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#09D164</item>
+        <item name="colorPrimaryDark">#2196F3</item>
+        <item name="colorAccent">#8BC34A</item>
+    </style>
+    <style name="AppTt" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#2196F3</item>
+        <item name="colorAccent">#8BC34A</item>
+    </style>
     <style name="thme" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -55,6 +66,10 @@
     <style name="loginParent" parent="parent">
         <item name="android:layout_height">match_parent</item>
         <item name="android:background">@color/loginBkColor</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+    <style name="loginParentr" parent="parent">
+        <item name="android:layout_height">match_parent</item>
         <item name="android:focusableInTouchMode">true</item>
     </style>
     <style name="loginParent1" parent="parent">

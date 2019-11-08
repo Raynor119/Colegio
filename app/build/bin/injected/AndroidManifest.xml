@@ -12,12 +12,80 @@
 	<uses-permission
 		android:name="android.permission.INTERNET"/>
 
+	<uses-permission
+		android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+	<uses-permission
+		android:name="android.permission.GET_ACCOUNTS"/>
+
+	<uses-permission
+		android:name="android.permission.WAKE_LOCK"/>
+
+	<uses-permission
+		android:name="com.google.android.c2dm.permission.RECEIVE"/>
+
+	<uses-permission
+		android:name="com.frab.permission.C2D_MESSAGE"/>
+
+	<uses-permission
+		android:name="android.permission.READ_CONTACTS"/>
+
+	<uses-permission
+		android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+	<uses-permission
+		android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+
+	<uses-permission
+		android:name="android.permission.VIBRATE"/>
+
+	<permission
+		android:name="com.frab.permission.C2D_MESSAGE"
+		android:protectionLevel="signature"/>
+
 	<application
 		android:allowBackup="true"
 		android:icon="@mipmap/ic_launcher"
 		android:label="@string/app_name"
 		android:resizeableActivity="true"
 		android:theme="@style/AppTheme">
+
+		<activity
+			android:name=".puntaje"
+			android:theme="@style/scrollvires"/>
+
+		<activity
+			android:name=".matemati"
+			android:theme="@style/AppTt"/>
+
+		<activity
+			android:name=".compete"
+			android:theme="@style/AppTt"/>
+
+		<activity
+			android:name=".ambien"
+			android:theme="@style/AppTt"/>
+
+		<activity
+			android:name=".ingle"
+			android:theme="@style/AppTt"/>
+
+		<activity
+			android:name=".historia"
+			android:theme="@style/AppTt"/>
+
+		<activity
+			android:name=".esp"
+			android:theme="@style/AppTt"/>
+
+		<activity
+			android:name=".tips"
+			android:theme="@style/scrollvires"/>
+
+		<service
+			android:name=".servicionoti"
+			android:enabled="true"
+			android:exported="true"/>
 
 		<activity
 			android:name=".estmateriase"
@@ -83,7 +151,8 @@
 			android:name=".mensajesprof"/>
 
 		<activity
-			android:name=".mensajeses"/>
+			android:name=".mensajeses"
+			android:theme="@style/AppT"/>
 
 		<activity
 			android:name=".materiase"

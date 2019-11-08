@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="¿la raiz cubica de sesentaycuatro es?"/>
+
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="16" />
+
+                        <RadioButton
+                            android:id="@+id/p1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="4" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="8" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="9" />
+                    </RadioGroup>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                android:layout_marginTop="20dp"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="¿el cubo de 8 es?" />
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <RadioButton
+                            android:id="@+id/p2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="512" />
+
+                        <RadioButton
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="543" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="521 " />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="514 " />
+                    </RadioGroup>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                android:layout_marginTop="20dp"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="¿la raiz cuadrada de 144 es?" />
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="146 " />
+
+                        <RadioButton
+                            android:id="@+id/p3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="12" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="142 " />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="140 " />
+                    </RadioGroup>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                card_view:cardBackgroundColor="@android:color/white"
+                android:layout_marginTop="20dp"
+                card_view:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="¿el producto de dos al cubo por tres al cuadrado es?" />
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="62" />
+
+                        <RadioButton
+                            android:id="@+id/p4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="72" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="81" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="63" />
+                    </RadioGroup>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

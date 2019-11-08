@@ -41,7 +41,7 @@ public class mensajeses extends AppCompatActivity {
         tabla=extra.getString("tabla");
         getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
 
-        getSupportActionBar().setCustomView(R.layout.toolbar);
+        getSupportActionBar().setCustomView(R.layout.toolbaress);
         reciclemateria=(RecyclerView)findViewById(R.id.recyclerMateria1);
         reciclemateria.setLayoutManager(new LinearLayoutManager(this));
         Button bton=findViewById(R.id.peri);
